@@ -1,6 +1,6 @@
 ﻿### 3rd Project, tasks short description
 
-- The project was an intended analysis for extracting marketing insights about sales for an Actual UK-based and registered non-store online retail, from A transnational data set published by The UCI Machine Learning Repository.
+- The project was an intended analysis for extracting marketing insights about sales for an Actual UK-based and registered non-store online retail, from a transnational data set published by The UCI Machine Learning Repository.
 - Attached my clean work as one xslx workbook with my insights presentation.
 
 ### Review highlights for my submission
