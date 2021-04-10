@@ -15,7 +15,7 @@ keep it up! :)
 - Great job adding a descriptive heading for each insight. This not only neatly demarcates your insights, but
 also gives your readers a heads up on what you're going to be talking about.
 - You drew some good, air-tight conclusions from your analysis. You also presented ample data, facts and other
-information from the dashboard to back your ’ndings. Terri’c! :)
+information from the dashboard to back your findings. Terrific! :)
 - Your screenshots appropriately illustrate the written part of your response. Excellent!
 
 *__2nd review highlights:__*
