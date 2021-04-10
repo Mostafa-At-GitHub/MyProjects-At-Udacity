@@ -9,7 +9,7 @@
  ![certificate_500KB](https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg)
  
 ## _Skills Gained_
-### MARKETING ANALYTICS [4]
+<font color='#09aed9'><h3> MARKETING ANALYTICS <font color='#5FB1FF'>[4]</font> </h3></font>
 #### Analytic Reporting
 PROJECTS Project: Create a Proposal for the Next Quarter
 Project - Navigating, Reports, & Dashboards
@@ -19,14 +19,14 @@ Project: Create a Proposal for the Next Quarter
 Project - Navigating, Reports, & Dashboards
 #### Data Collection
 Project: Create a Proposal for the Next Quarter
-### SPREADSHEETS [3]
+### _SPREADSHEETS [3]_
 #### Spreadsheet Functions
 PROJECTS Analyze Survey Data
 #### Data Visualization
 PROJECTS Analyze Survey Data
 #### Basic Spreadsheet Use
 PROJECTS Analyze Survey Data
-### DATA VISUALIZATION [4]
+### _DATA VISUALIZATION [4]_
 #### Data Storytelling
 PROJECTS Build Data Dashboards
 #### Data Presentation
