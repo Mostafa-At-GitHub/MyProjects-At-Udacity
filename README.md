@@ -1,8 +1,9 @@
+
 # Marketing-Analytics-Nanodegree
  My submitted projects for graduation from "Udacity Marketing Analytics Nanodegree"
  
  [Udacity Transcript Endorsement](https://graduation.udacity.com/confirm/MUTY93J3)
- 
+ [download.pdf](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/files/6290176/download.pdf)
  [MCIT Transcript Endorsement](http://techleaders.eg/Learner/13-29655/certificate.html)
  ![certificate_500KB](https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg)
  
