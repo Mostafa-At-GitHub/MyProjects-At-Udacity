@@ -1,6 +1,6 @@
 ### 1st Project, tasks short description
 
-- The project was an intended analysis for extracting insights about job skills from a LinkedIn "Tableau dashboard". Below is the online dashboard link.
+- The project was an intended analysis for extracting insights about jobs skills from a LinkedIn "Tableau dashboard". Below is the online dashboard link.
 
 [LinkedIn Top Skills 2016 - MakeoverMonday - Matt Chambers - Tableau Public](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 
