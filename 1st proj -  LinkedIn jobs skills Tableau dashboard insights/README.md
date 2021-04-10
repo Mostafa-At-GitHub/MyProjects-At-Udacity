@@ -2,9 +2,9 @@
 
 - The project was an intended analysis for extracting insights from a "Tableau dashboard" for one of these  three subjects: 
 
- - Madrid in Detail
- - Malaria in Africa
- - LinkedIn Top Skills
+   - Madrid in Detail
+   - Malaria in Africa
+   - LinkedIn Top Skills
 
  I set out to make the analysis about jobs skills from the LinkedIn Tableau dashboard
 
