@@ -9,7 +9,7 @@
  ![certificate_500KB](https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg)
  
 ## _Skills Gained_
-<font color='#09aed9'><h3> MARKETING ANALYTICS <font color='#5FB1FF'>[4]</font> </h3></font>
+<font color='b'><h3> MARKETING ANALYTICS <font color='r'>[4]</font> </h3></font>
 #### Analytic Reporting
 PROJECTS Project: Create a Proposal for the Next Quarter
 Project - Navigating, Reports, & Dashboards
