@@ -8,8 +8,7 @@
 
 *__1st review highlights:__*
 
-- Good job. The bar chart and table are great for representing the sales and ad spend data for 2017 and
-2018. They are ideal for representing di‡erent groups of data and changes over time.
+- Good job. The bar chart and table are great for representing the sales and ad spend data for 2017 and 2018. They are ideal for representing di√†erent groups of data and changes over time.
 - Restating the sales and ad spend goals give context to the analyses and conclusions drawn.
 The student clearly indicates that the sales goal was met, and the ad spend goal was not met.
 - Awesome job analyzing the sales data by age group, and city.
