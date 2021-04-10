@@ -1,8 +1,0 @@
-The project was an intended analysis for extracting insghts about jobs from a Linkedin "Tableau dashboard".
-
-
-Dashboard link is below
-
-LinkedIn Top Skills 2016 - MakeoverMonday - Matt Chambers - Tableau Public
-
-https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday
