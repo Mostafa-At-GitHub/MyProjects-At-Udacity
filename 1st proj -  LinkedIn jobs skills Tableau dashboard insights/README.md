@@ -8,9 +8,7 @@
 
  I set out to make the analysis about jobs skills from the LinkedIn Tableau dashboard
 
-Here is the jobs skills online dashboard link.
-
-[LinkedIn Top Skills 2016 - MakeoverMonday - Matt Chambers - Tableau Public](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
+Here is the jobs skills online dashboard link: [LinkedIn Top Skills 2016 - MakeoverMonday - Matt Chambers - Tableau Public](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 
 ### Reviews highlights for my submissions
 
