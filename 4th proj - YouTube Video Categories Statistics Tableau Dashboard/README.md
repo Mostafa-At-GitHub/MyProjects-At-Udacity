@@ -2,9 +2,9 @@
 
 - The project was for making a Tableau dashboard with story telling from 3 choices as follows:
 
-- Flight Delays and Cancellations
-- US Census Demographic Data
-- Youtube Data from the US
+  - Flight Delays and Cancellations
+  - US Census Demographic Data
+  - Youtube Data from the US
 
   I set out to make all three, finally i completed the work for a story from three csv files data sets collected using YouTube API backed by a dashboard and sheets for youtube vedio categories viewed in American States from start of Nov 14, 2017, to end of March 20, 2018.
 
