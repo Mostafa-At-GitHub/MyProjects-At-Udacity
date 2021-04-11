@@ -1,6 +1,6 @@
 ﻿### 5th Project, tasks short description
 
-- The project was for making a report using Google Analytics platform about "Google Mershandise store".
+ The project was for making a report using Google Analytics platform about "Google Mershandise store".
 
 ### Review highlights for my submission
 
