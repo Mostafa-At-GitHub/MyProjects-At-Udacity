@@ -9,7 +9,7 @@
  ![certificate_500KB](https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg)
  
 # Skills Gained
-### <u><i>MARKETING ANALYTICS</i></u> [4]
+### _MARKETING ANALYTICS_ [4]
 #### Analytic Reporting
 PROJECTS Project: Create a Proposal for the Next Quarter
 Project - Navigating, Reports, & Dashboards
