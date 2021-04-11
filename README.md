@@ -10,34 +10,34 @@
  
 # Skills Gained
 ### _MARKETING ANALYTICS_ [4]
-#### Analytic Reporting
+#### `Analytic Reporting`
 PROJECTS Project: Create a Proposal for the Next Quarter
 Project - Navigating, Reports, & Dashboards
-#### Marketing Metrics
+#### `Marketing Metrics`
 Project: Create a Proposal for the Next Quarter
-#### Google Analytics
+#### `Google Analytics`
 Project - Navigating, Reports, & Dashboards
-#### Data Collection
+#### `Data Collection`
 Project: Create a Proposal for the Next Quarter
 ### _SPREADSHEETS_ [3]
-#### Spreadsheet Functions
+#### `Spreadsheet Functions`
 PROJECTS Analyze Survey Data
-#### Data Visualization
+#### `Data Visualization`
 PROJECTS Analyze Survey Data
-#### Basic Spreadsheet Use
+#### `Basic Spreadsheet Use`
 PROJECTS Analyze Survey Data
 ### _DATA VISUALIZATION_ [4]
-#### Data Storytelling
+#### `Data Storytelling`
 PROJECTS Build Data Dashboards
-#### Data Presentation
+#### `Data Presentation`
 Project - Navigating, Reports, & Dashboards
-#### Visualization Design
+#### `Visualization Design`
 PROJECTS Build Data Dashboards
-#### Tableau Visualizations
+#### `Tableau Visualizations`
 PROJECTS Build Data Dashboards
 ### _PROBABILITY & STATISTICS_ [2]
-#### Basic Descriptive Statistics
+#### `Basic Descriptive Statistics`
 PROJECTS Analyze Survey Data
-#### Basic Inferential Statistics
+#### `Basic Inferential Statistics`
 PROJECTS Analyze Survey Data
 
