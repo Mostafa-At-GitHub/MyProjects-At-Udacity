@@ -1,8 +1,8 @@
 ### 8th Project, tasks short description
 
-- The project was intended to analyze marketing data and craft a Campaign Report by evaluating the performance of the Black Friday sales for 2017 & 2018 using a data set on Google Sheet. 
+ The project was intended to analyze marketing data and craft a Campaign Report by evaluating the performance of the Black Friday sales for 2017 & 2018 using a data set on Google Sheet. 
 
-- Attached my clean work as one xslx workbook with my insights presentation that includes the vizs.
+ Attached my clean work as one xslx workbook with my insights presentation that includes the vizs.
 
 ### Reviews highlights for my submissions
 
