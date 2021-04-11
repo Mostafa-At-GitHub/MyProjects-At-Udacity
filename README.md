@@ -8,8 +8,8 @@
   [MCIT Transcript Endorsement](http://techleaders.eg/Learner/13-29655/certificate.html)
  ![certificate_500KB](https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg)
  
-## _Skills Gained_
-### MARKETING ANALYTICS [4]
+# Skills Gained
+### <u><i>MARKETING ANALYTICS</i></u> [4]
 #### Analytic Reporting
 PROJECTS Project: Create a Proposal for the Next Quarter
 Project - Navigating, Reports, & Dashboards
@@ -19,14 +19,14 @@ Project: Create a Proposal for the Next Quarter
 Project - Navigating, Reports, & Dashboards
 #### Data Collection
 Project: Create a Proposal for the Next Quarter
-### _SPREADSHEETS [3]_
+### _SPREADSHEETS_ [3]
 #### Spreadsheet Functions
 PROJECTS Analyze Survey Data
 #### Data Visualization
 PROJECTS Analyze Survey Data
 #### Basic Spreadsheet Use
 PROJECTS Analyze Survey Data
-### _DATA VISUALIZATION [4]_
+### _DATA VISUALIZATION_ [4]
 #### Data Storytelling
 PROJECTS Build Data Dashboards
 #### Data Presentation
@@ -35,7 +35,7 @@ Project - Navigating, Reports, & Dashboards
 PROJECTS Build Data Dashboards
 #### Tableau Visualizations
 PROJECTS Build Data Dashboards
-### PROBABILITY & STATISTICS [2]
+### _PROBABILITY & STATISTICS_ [2]
 #### Basic Descriptive Statistics
 PROJECTS Analyze Survey Data
 #### Basic Inferential Statistics
