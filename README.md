@@ -2,11 +2,12 @@
 <h7 align='center'>My submitted projects for graduation from "Udacity Marketing Analytics Nanodegree"</h7>
 <p align="center">
 <a href="https://graduation.udacity.com/confirm/MUTY93J3">Udacity Transcript Endorsement</a>
- [Udacity Transcript Endorsement](https://graduation.udacity.com/confirm/MUTY93J3)
- ![download_001](https://user-images.githubusercontent.com/77938921/114275997-6f831700-9a2d-11eb-9fe2-05233f32e882.jpg)
- [MCIT Transcript Endorsement](http://techleaders.eg/Learner/13-29655/certificate.html)
- ![certificate_500KB](https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg)
- </p>
+</p>
+[Udacity Transcript Endorsement](https://graduation.udacity.com/confirm/MUTY93J3)
+![download_001](https://user-images.githubusercontent.com/77938921/114275997-6f831700-9a2d-11eb-9fe2-05233f32e882.jpg)
+[MCIT Transcript Endorsement](http://techleaders.eg/Learner/13-29655/certificate.html)
+![certificate_500KB](https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg)
+ 
 # Skills Gained
 ### _MARKETING ANALYTICS_ [4]
 #### `Analytic Reporting`
