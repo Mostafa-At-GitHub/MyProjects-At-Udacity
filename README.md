@@ -1,8 +1,9 @@
 <h1 align="center">Marketing Analytics Nanodegree</h1>
-<h7 align='center'>My submitted projects for graduation from "Udacity Marketing Analytics Nanodegree"</h7>
-<p align="center">
-<a href="https://graduation.udacity.com/confirm/MUTY93J3">Udacity Transcript Endorsement</a>
-</p>
+
+<p align="center"><h7 align='center'>My submitted projects for graduation from "Udacity Marketing Analytics Nanodegree"</h7></p>
+
+<p align="center"><a href="https://graduation.udacity.com/confirm/MUTY93J3">Udacity Transcript Endorsement</a></p>
+
 [Udacity Transcript Endorsement](https://graduation.udacity.com/confirm/MUTY93J3)
 ![download_001](https://user-images.githubusercontent.com/77938921/114275997-6f831700-9a2d-11eb-9fe2-05233f32e882.jpg)
 [MCIT Transcript Endorsement](http://techleaders.eg/Learner/13-29655/certificate.html)
