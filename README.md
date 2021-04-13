@@ -3,13 +3,14 @@
 <p align="center"><h7 align='center'>My submitted projects for graduation from "Udacity Marketing Analytics Nanodegree"</h7></p>
 
 <p align="center"><a href="https://graduation.udacity.com/confirm/MUTY93J3">Udacity Transcript Endorsement</a></p>
-
-[Udacity Transcript Endorsement](https://graduation.udacity.com/confirm/MUTY93J3)
 ![download_001](https://user-images.githubusercontent.com/77938921/114275997-6f831700-9a2d-11eb-9fe2-05233f32e882.jpg)
-[MCIT Transcript Endorsement](http://techleaders.eg/Learner/13-29655/certificate.html)
+
+<p align="center"><a href="http://techleaders.eg/Learner/13-29655/certificate.html">MCIT Transcript Endorsement</a></p>
 ![certificate_500KB](https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg)
  
-# Skills Gained
+<h1 align="center">Skills Gained</h1>
+
+<p align="center">
 ### _MARKETING ANALYTICS_ [4]
 #### `Analytic Reporting`
 PROJECTS Project: Create a Proposal for the Next Quarter
@@ -41,4 +42,4 @@ PROJECTS Build Data Dashboards
 PROJECTS Analyze Survey Data
 #### `Basic Inferential Statistics`
 PROJECTS Analyze Survey Data
-
+</p>
