@@ -1,4 +1,4 @@
-<h1 align="center">Marketing Analytics Nanodegree</h1>
+<p><h1 align="center">Marketing Analytics Nanodegree</h1></p>
 
 <p align="center"><h7 align='center'>My submitted projects for graduation from "Udacity Marketing Analytics Nanodegree"</h7></p>
 
