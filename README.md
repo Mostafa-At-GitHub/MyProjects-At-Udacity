@@ -1,6 +1,6 @@
 
 
-# Marketing-Analytics-Nanodegree
+# <font align="center">Marketing-Analytics-Nanodegree</font>
  My submitted projects for graduation from "Udacity Marketing Analytics Nanodegree"
  
  [Udacity Transcript Endorsement](https://graduation.udacity.com/confirm/MUTY93J3)
