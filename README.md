@@ -8,7 +8,7 @@
 <p align="center"><a href="http://techleaders.eg/Learner/13-29655/certificate.html">MCIT Transcript Endorsement</a></p>
 ![certificate_500KB](https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg)
  
-<h1 align="center">Skills Gained</h1>
+<p align="center"><h1 align="center">Skills Gained</h1></p>
 
 <p align="center">
 ### _MARKETING ANALYTICS_ [4]
