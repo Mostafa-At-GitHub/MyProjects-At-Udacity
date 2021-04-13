@@ -1,6 +1,6 @@
 
 
-# <font align="center">Marketing-Analytics-Nanodegree</font>
+# <h1 align="center">Marketing-Analytics-Nanodegree</h1>
  My submitted projects for graduation from "Udacity Marketing Analytics Nanodegree"
  
  [Udacity Transcript Endorsement](https://graduation.udacity.com/confirm/MUTY93J3)
