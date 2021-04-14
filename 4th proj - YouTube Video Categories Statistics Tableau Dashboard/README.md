@@ -1,5 +1,4 @@
 ﻿### 4th Project, tasks short description
-
 - The project was for making a Tableau dashboard with story telling from 3 choices as follows:
 
   - Flight Delays and Cancellations
@@ -15,7 +14,7 @@ Dashboard link: [Youtube Data US](https://public.tableau.com/profile/m3836#!/viz
 ### Review highlights for my submission
 
 *__1st review highlights:__*
-
+<br><div>
 - Kudos,
 Well done coming up with your insights, they are simple yet very informative. You did follow a lot of recommended guidelines and
 polished your work before submission.
@@ -23,5 +22,6 @@ polished your work before submission.
 - Well done formatting your insights in short points to add some structure to your insights. Rather than having
 to scan through the whole text for particular info, any interested reader can easily focus on a particular
 section of each insight you uncovered.
-- I like the way you made use of on-screen space. Your Õlters help readers answer further questions.
-- Your visuals were appropriate for each particular use case. Well done. 
+- I like the way you made use of on-screen space. Your filters help readers answer further questions.
+- Your visuals were appropriate for each particular use case. Well done.
+<br></div>
