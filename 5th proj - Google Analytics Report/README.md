@@ -1,10 +1,11 @@
-﻿### 5th Project, tasks short description
+### [Project Presentation Preview](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/5th%20proj%20-%20Google%20Analytics%20Report/5TH%20PROJECT%20Use%20Advanced%20Displays%2C%20Segments%20%26%20Views.pdf)
+### [5th Project](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/5th%20proj%20-%20Google%20Analytics%20Report/5TH%20PROJECT%20Use%20Advanced%20Displays%2C%20Segments%20%26%20Views.pdf), tasks short description
 
  The project was for making a report using Google Analytics platform about "Google Mershandise store".
 
 ### Review highlights for my submission
 
-*__1st review highlights:__*
+*__[1st review](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/5th%20proj%20-%20Google%20Analytics%20Report/Udacity%20Detailed%20Review/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 
 - Congratulations on passing this submission . All screenshots are annotated to enhance understanding. Part 3 is especially
 well done with detailed notes to explain the trends for each segment. Keep it up.
