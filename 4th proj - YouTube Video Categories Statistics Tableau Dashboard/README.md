@@ -1,11 +1,11 @@
 ﻿### 4th Project, tasks short description
-- The project was for making a Tableau dashboard with story telling from 3 choices as follows:
+- The project was for making a Tableau dashboard with storytelling from 3 choices as follows:
 
   - Flight Delays and Cancellations
   - US Census Demographic Data
   - Youtube Data from the US
 
-  I set out to make all three, finally i completed the work for a story from three csv files data sets collected using YouTube API backed by a dashboard and sheets for youtube vedio categories viewed in American States from start of Nov 14, 2017, to end of March 20, 2018.
+  I set out to make all three, finally, I completed the work for a story from three CSV files data sets collected using YouTube API backed by a dashboard and sheets for youtube vedio categories viewed in the American States from the start of Nov 14, 2017, to the end of March 20, 2018.
 
 - Attached my presentation work,and the data sets are in the folder named 'youtubedata - XLSX files'.
 
