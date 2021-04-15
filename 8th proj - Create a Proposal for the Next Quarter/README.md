@@ -1,4 +1,5 @@
-### 8th Project, tasks short description
+### [Project Presentation Preview](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter/8th%20Final%20PROJECT-%20evaluating%20the%20performance%20of%20the%20Black%20Friday%20sales%20for%202017%20%26%202018.pdf)
+### [8th Project](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter/8th%20Final%20PROJECT-%20evaluating%20the%20performance%20of%20the%20Black%20Friday%20sales%20for%202017%20%26%202018.pdf), tasks short description
 
  The project was intended to analyze marketing data and craft a Campaign Report by evaluating the performance of the Black Friday sales for 2017 & 2018 using a data set on Google Sheet. 
 
@@ -6,7 +7,7 @@
 
 ### Reviews highlights for my submissions
 
-*__1st review highlights:__*
+*__[1st review](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter/Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%202%20specifications%20requires%20changes.pdf) highlights:__*
 
 - Good job. The bar chart and table are great for representing the sales and ad spend data for 2017 and 2018. They are ideal for representing diàerent groups of data and changes over time.
 - Restating the sales and ad spend goals give context to the analyses and conclusions drawn.
@@ -27,7 +28,7 @@ The sales question for slide 8 has also been included.
 of orders.
 - The sales values for each product category have also been included.
 
-*__2nd review highlights:__*
+*__[2nd review](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter/Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 
 - Congratulations on passing this submission . This is an impressive submission with detailed notes, clear visuals and neat
 presentation. Thank you for carefully incorporating the previous feedback into this update too. Please keep it up.
