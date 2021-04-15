@@ -1,9 +1,6 @@
 ### [Project Presentation Preview](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/1ST%20PROJECT%20Working%20with%20Data%20-%20LinkedIn%20Top%20Skills%20Insights%20-%202nd%20submission.pdf)
 ### [Interactive Dashboard Link](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
-
-![LinkedIn jobs skills Tableau Dashboard Preview](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/linkedin-top-skills.png "LinkedIn jobs skills Tableau Dashboard Preview")
-
-(https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
+[![LinkedIn jobs skills Tableau Dashboard Preview](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/linkedintopskills.png "LinkedIn jobs skills Tableau Dashboard Preview")](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 ### [1st Project](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/1ST%20PROJECT%20Working%20with%20Data%20-%20LinkedIn%20Top%20Skills%20Insights%20-%202nd%20submission.pdf), tasks short description
 
 - The project was an intended analysis for extracting insights from a "Tableau dashboard" for one of these  three subjects: 
