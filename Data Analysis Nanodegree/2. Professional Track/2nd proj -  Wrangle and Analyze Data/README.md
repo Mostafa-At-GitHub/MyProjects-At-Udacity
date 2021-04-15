@@ -23,14 +23,14 @@ notebook. You have performed various types of assessments, which is what I like 
 - However, you have grouped similar issues before cleaning them, and sometimes multiple issues took a fewer
 number of lines to clean rather than cleaning them one by one, so I think we may give this specification a passing
 mark.
-- DataFrame objects were copied before cleaning, and a final cleaned dataset was created and ’lled with the
+- DataFrame objects were copied before cleaning, and a final cleaned dataset was created and √ïlled with the
 cleaned data. Excellent work on this part.
 - Well done with the visualizations and insights, they look great!
 
 
 *__[2nd review](Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 
-- You have put dedicated e‡ort into this project and it paid off. Congratulations on meeting all the specifications of the project! You have demonstrated a very good python coding skills and understanding of __data wrangling__ process.
+- You have put dedicated e√†ort into this project and it paid off. Congratulations on meeting all the specifications of the project! *__You have demonstrated a very good python coding skills and understanding__* of __data wrangling__ process.
 - You have done an excellent job wrangling the given data and producing some interesting insights like __iphone is the most frequent platform for tweeting on this account__
 - You also did a fantastic job of incorporating the previous reviewer suggestions. Congratulations! Keep up all the great work you are doing. Good luck with your future projects!
 - Good job adding a __hyper-linked Table of Contents__ so that it is very easy to navigate through your notebook. This shows your attention to details.
