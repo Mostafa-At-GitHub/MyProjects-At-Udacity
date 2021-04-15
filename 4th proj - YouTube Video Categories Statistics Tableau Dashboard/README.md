@@ -7,7 +7,7 @@
 
   I set out to make all three, finally, I completed the work for a story from three CSV files data sets collected using YouTube API backed by a dashboard and sheets for youtube vedio categories viewed in the American States from the start of Nov 14, 2017, to the end of March 20, 2018.
 
-- Attached my presentation work,and the data sets are in the folder named 'youtubedata - XLSX files'.
+- Attached my presentation work, and the data sets are in the folder named 'youtubedata - XLSX files'.
 
 Dashboard link: [Youtube Data US](https://public.tableau.com/profile/m3836#!/vizhome/YoutubeDataUS_16081098874500/YouTubeVideoCategoriesViewsStory)
 
