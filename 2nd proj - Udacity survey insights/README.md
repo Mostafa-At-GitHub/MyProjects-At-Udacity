@@ -5,7 +5,7 @@
 
 ### Review highlights for my submission
 
-*__1st review highlights:__*
+*__[1st review](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/2nd%20proj%20-%20Udacity%20survey%20insights/Udacity%20Detailed%20Review/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
  
 - Great work on this fine submission!
 - Keep up with the solid work 
