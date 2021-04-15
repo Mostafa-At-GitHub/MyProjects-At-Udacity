@@ -37,7 +37,7 @@ Project: [Wrangle and Analyze Data]()
 ## Digital Freelancing - Pro
 Project: [Conquer the freelancing marketplaces]()
 
-##PART 7
-##Congratulations and Next Steps
+## PART 7
+## Congratulations and Next Steps
 Receive your Certificate of Completion.
 
