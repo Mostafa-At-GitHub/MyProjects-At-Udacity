@@ -1,7 +1,7 @@
 <p><h1 align="center">Data Analysis Professional Track</h1></p>
 
 <p align="center"><h7 align='center'>My submitted projects for graduation from "Udacity Data Analysis Professional Track"</h7></p>
-<p align="center"><a href="https://graduation.udacity.com/confirm/RNZTPEQ3">Udacity Transcript Endorsement</a></p>
+<p align="center"><a href="https://graduation.udacity.com/confirm/">Udacity Transcript Endorsement</a></p>
 
 ![Certificate](Capture.PNG)
 
@@ -18,7 +18,7 @@ Welcome to Egypt "Future Work is Digital" initiative.
 ## Introduction to Python
 Learn Python programming fundamentals such as data types and structures, variables, loops, and functions.
 
-Project: [Explore US Bikeshare Data]()
+Project: [Explore US Bikeshare Data](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/tree/main/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data)
 
 ## PART 3
 ## Introduction to Data Analysis
