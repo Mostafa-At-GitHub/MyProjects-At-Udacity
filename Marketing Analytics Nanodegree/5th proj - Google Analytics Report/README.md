@@ -1,4 +1,4 @@
-﻿### Project name: "Use Advanced Displays, Segments & Views"
+### <u>Project name</u>: "Use Advanced Displays, Segments & Views"
 ### Main focused: Google Analytics Report
 ### [Project Presentation Preview](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Marketing%20Analytics%20Nanodegree/5th%20proj%20-%20Google%20Analytics%20Report/5TH%20PROJECT%20Use%20Advanced%20Displays%2C%20Segments%20%26%20Views.pdf)
 ### [5th Project](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Marketing%20Analytics%20Nanodegree/5th%20proj%20-%20Google%20Analytics%20Report/5TH%20PROJECT%20Use%20Advanced%20Displays%2C%20Segments%20%26%20Views.pdf), tasks short description
