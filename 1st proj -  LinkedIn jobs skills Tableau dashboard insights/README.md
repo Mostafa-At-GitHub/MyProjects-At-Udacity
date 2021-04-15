@@ -23,7 +23,7 @@ also gives your readers a heads up on what you're going to be talking about.
 information from the dashboard to back your findings. Terrific! :)
 - Your screenshots appropriately illustrate the written part of your response. Excellent!
 
-*__2nd review highlights:__*
+*__[2nd review](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 
 - Congratulations for your work and project submitted. Insights where very well presented and displayed properly. You really did a great
 job.
