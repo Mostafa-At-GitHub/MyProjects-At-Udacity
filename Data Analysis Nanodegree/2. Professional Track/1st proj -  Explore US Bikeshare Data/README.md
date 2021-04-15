@@ -4,9 +4,9 @@
 
 - The project was for writing a Python script to enable the user to do analysis on Bikeshare system data for cities; Chicago, New York City, and Washington, from their respective [three data sets](bikeshare-datasets), and to answer questions about: Popular times of travel , Popular stations and trip, Trip duration and User info.
 
-<p><h6 align='Center'>The picture below shows the data for the first 10 rides in the new_york_city.csv file<br>![Sample](bikeshare-datasets/nyc-data.png)</h6></p>
+<p><h6 align='Center'>The picture below shows the data for the first 10 rides in the new_york_city.csv file<br></h6></p>
 <br>
-
+![Sample](bikeshare-datasets/nyc-data.png)
 ### Reviews highlights for my submissions
 
 *__[1st review](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data/Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%201%20specification%20requires%20changes.pdf) highlights:__*
