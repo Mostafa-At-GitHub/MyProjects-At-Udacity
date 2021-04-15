@@ -23,8 +23,7 @@ notebook. You have performed various types of assessments, which is what I like 
 - However, you have grouped similar issues before cleaning them, and sometimes multiple issues took a fewer
 number of lines to clean rather than cleaning them one by one, so I think we may give this specification a passing
 mark.
-- DataFrame objects were copied before cleaning, and a final cleaned dataset was created and Õlled with the
-cleaned data. Excellent work on this part.
+- DataFrame objects were copied before cleaning, and a final cleaned dataset was created and filled with the cleaned data. Excellent work on this part.
 - Well done with the visualizations and insights, they look great!
 
 
@@ -39,7 +38,7 @@ cleaned data. Excellent work on this part.
 - __Excellent job__ successfully gathering data from local file twitter_archive_enhanced.csv and from a URL
 ( image_predictions.tsv ) and imported them into separate pandas dataframes
 - Good job __copying__ all the dataframes prior to cleaning.
-- Nice job __capturing all stages of dogs__ when an image has dogs with different stages. Many students miss this critical issue. Nice job digging deep into data and identify this issue.
+- Nice job __capturing all stages of dogs__ when an image has dogs with different stages. __Many students miss this critical issue. Nice job digging deep into data and identify this issue.__
 - Good job correctly extracting __decimal numerators__.
 - Good job __removing retweets__ and retaining only original tweets as per project instruction as we are only interested in original tweets in our analysis.
 - You have done a __good job__ using index argument in to_csv() function and setting it to False to avoid adding a unwanted index column in the saved file.
