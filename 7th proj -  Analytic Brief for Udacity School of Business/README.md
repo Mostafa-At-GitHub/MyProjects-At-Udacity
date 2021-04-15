@@ -1,4 +1,5 @@
-﻿### 7th Project, tasks short description
+### [Project Presentation Preview](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/7th%20proj%20-%20%20Analytic%20Brief%20for%20Udacity%20School%20of%20Business/7th%20PROJECT%20Crafting%20an%20Analytic%20Brief%20%20-%20Udacity's%20School%20of%20Business.pdf)
+### [7th Project](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/7th%20proj%20-%20%20Analytic%20Brief%20for%20Udacity%20School%20of%20Business/7th%20PROJECT%20Crafting%20an%20Analytic%20Brief%20%20-%20Udacity's%20School%20of%20Business.pdf), tasks short description
 
  The project was intended for crafting an Analytic Brief for one of the companies below:
 
@@ -12,7 +13,7 @@
 
 ### Review highlights for my submission
 
-*__1st review highlights:__*
+*__[1st review](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/7th%20proj%20-%20%20Analytic%20Brief%20for%20Udacity%20School%20of%20Business/Udacity%20Detailed%20Review/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 
 - Congratulations on finishing the project 🎉
 This was a brilliant submission. The work was exceptional! You did a great job and should be proud of yourself. After reviewing this
