@@ -30,7 +30,7 @@ cleaned data. Excellent work on this part.
 
 *__[2nd review](Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 
-- You have put dedicated eàort into this project and it paid off. Congratulations on meeting all the specifications of the project! *__You have demonstrated a very good python coding skills and understanding__* of __data wrangling__ process.
+- You have put dedicated effort into this project and it paid off. Congratulations on meeting all the specifications of the project! *__You have demonstrated a very good python coding skills and understanding__* of __data wrangling__ process.
 - You have done an excellent job wrangling the given data and producing some interesting insights like __iphone is the most frequent platform for tweeting on this account__
 - You also did a fantastic job of incorporating the previous reviewer suggestions. Congratulations! Keep up all the great work you are doing. Good luck with your future projects!
 - Good job adding a __hyper-linked Table of Contents__ so that it is very easy to navigate through your notebook. This shows your attention to details.
