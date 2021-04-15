@@ -1,12 +1,12 @@
-﻿### [Project Script Code Preview]()
+﻿### [Project Script Code Preview](my local solution.py)
 
-### [1st Project](), tasks short description
+### [1st Project](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data/my%20local%20solution.py), tasks short description
 
-- The project was for writing a Python script to enable the user to do analysis on Bikeshare system data for cities; Chicago, New York City, and Washington, from their respective three data sets.
-
+- The project was for writing a Python script to enable the user to do analysis on Bikeshare system data for cities; Chicago, New York City, and Washington, from their respective [three data sets](bikeshare-datasets).
+![Sample](bikeshare-datasets/nyc-data.png)
 ### Reviews highlights for my submissions
 
-*__[1st review]() highlights:__*
+*__[1st review](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data/Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%201%20specification%20requires%20changes.pdf) highlights:__*
 
 - Great work on the project till now. You’ve worked hard on the project and it clearly shows. 
 - Everything runs free of errors. Nicely done! 🌟
@@ -22,7 +22,7 @@ of data being stored in that variable. 🌟
 inputs. 🌟
 - Great job calculating all the statistics correctly.
 
-*__[2nd review]() highlights:__*
+*__[2nd review](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data/Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 
 - Thank you so much for paying such attention to detail when Õxing the minor comments made during previous review. The project looks
 amazing now :)
