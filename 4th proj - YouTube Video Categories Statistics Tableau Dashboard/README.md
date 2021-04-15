@@ -7,13 +7,13 @@
 
   I set out to make all three, finally, I completed the work for a story from three CSV files data sets collected using YouTube API backed by a dashboard and sheets for youtube vedio categories viewed in the American States from the start of Nov 14, 2017, to the end of March 20, 2018.
 
-- Attached my presentation work, and the data sets are in the folder named 'youtubedata - XLSX files'.
+- Attached my presentation work, and the data sets are in the folder named '[youtubedata - XLSX files](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/tree/main/4th%20proj%20-%20YouTube%20Video%20Categories%20Statistics%20Tableau%20Dashboard/youtubedata%20-%20XLSX%20files)'.
 
 Dashboard link: [Youtube Data US](https://public.tableau.com/profile/m3836#!/vizhome/YoutubeDataUS_16081098874500/YouTubeVideoCategoriesViewsStory)
 
 ### Review highlights for my submission
 
-*__1st review highlights:__*
+*__[1st review](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/4th%20proj%20-%20YouTube%20Video%20Categories%20Statistics%20Tableau%20Dashboard/Udacity%20Detailed%20Review/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 <br><div>
 - Kudos,
 Well done coming up with your insights, they are simple yet very informative. You did follow a lot of recommended guidelines and
