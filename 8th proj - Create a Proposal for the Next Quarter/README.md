@@ -7,7 +7,7 @@
 
 ### Reviews highlights for my submissions
 
-*__[1st review](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter/Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%202%20specifications%20requires%20changes.pdf) highlights:__*
+*__[1st review](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter/Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%202%20specifications%20require%20changes.pdf) highlights:__*
 
 - Good job. The bar chart and table are great for representing the sales and ad spend data for 2017 and 2018. They are ideal for representing diàerent groups of data and changes over time.
 - Restating the sales and ad spend goals give context to the analyses and conclusions drawn.
