@@ -1,4 +1,5 @@
-﻿### [4th Project](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/4th%20proj%20-%20YouTube%20Video%20Categories%20Statistics%20Tableau%20Dashboard/4TH%20PROJECT%20Build%20Data%20Dashboards%20-%20YouTube%20Video%20Categories%20Statistics%20modded.pdf), tasks short description
+﻿<img src="https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/4th%20proj%20-%20YouTube%20Video%20Categories%20Statistics%20Tableau%20Dashboard/YouTube%20Video%20Categories%20Statistics%20Dashboard%20(Faded%20Bars).png">
+ ### [4th Project](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/4th%20proj%20-%20YouTube%20Video%20Categories%20Statistics%20Tableau%20Dashboard/4TH%20PROJECT%20Build%20Data%20Dashboards%20-%20YouTube%20Video%20Categories%20Statistics%20modded.pdf), tasks short description
 - The project was for making a Tableau dashboard with storytelling from 3 choices as follows:
 
   - Flight Delays and Cancellations
