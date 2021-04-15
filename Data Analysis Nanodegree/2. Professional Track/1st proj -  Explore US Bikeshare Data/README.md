@@ -26,9 +26,9 @@ inputs. 🌟
 
 *__[2nd review](Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 
-- Thank you so much for paying such attention to detail when Õxing the minor comments made during previous review. The project looks
+- Thank you so much for paying such attention to detail when fixing the minor comments made during previous review. The project looks
 amazing now :)
-- The script is neatly written and runs with great computational eÞciency. What really stands out is the readability of your code -
+- The script is neatly written and runs with great computational efficiency. What really stands out is the readability of your code -
 everything from comments to spacing (this is such an important trait to have as a programmer). It was a pleasure to read through it.
 - Really awesome work!
 - Please keep up the good work and happy learning ahead!
