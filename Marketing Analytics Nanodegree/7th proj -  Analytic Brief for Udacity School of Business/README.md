@@ -1,6 +1,6 @@
-﻿### Project name: "Crafting an Analytic Brief"
+### Project name: "Crafting an Analytic Brief"
 ### Main focused: Analytic Brief for Udacity School of Business
-### [Project Presentation Phttps://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Marketing%20Analytics%20Nanodegree/7th%20proj%20-%20%20Analytic%20Brief%20for%20Udacity%20School%20of%20Business/7th%20PROJECT%20Crafting%20an%20Analytic%20Brief%20%20-%20Udacity's%20School%20of%20Business.pdf)
+### [Project Presentation Preview](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Marketing%20Analytics%20Nanodegree/7th%20proj%20-%20%20Analytic%20Brief%20for%20Udacity%20School%20of%20Business/7th%20PROJECT%20Crafting%20an%20Analytic%20Brief%20%20-%20Udacity's%20School%20of%20Business.pdf)
 ### [7th Project](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Marketing%20Analytics%20Nanodegree/7th%20proj%20-%20%20Analytic%20Brief%20for%20Udacity%20School%20of%20Business/7th%20PROJECT%20Crafting%20an%20Analytic%20Brief%20%20-%20Udacity's%20School%20of%20Business.pdf), tasks short description
 
  The project was intended for crafting an Analytic Brief for one of the companies below:
