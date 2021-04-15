@@ -12,7 +12,7 @@ Here is the jobs skills online dashboard link: [LinkedIn Top Skills 2016 - Makeo
 
 ### Reviews highlights for my submissions
 
-*__1st review highlights:__*
+*__[1st review](https://github.com/Mostafa-At-GitHub/Udacity-Marketing-Analytics-Nanodegree_-_MyProjects/blob/main/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%201%20specification%20requires%20changes.pdf) highlights:__*
 
 - This is an excellent submission! You presented three very interesting insights and backed them up with some robust analysis. Great job,
 keep it up! :)
