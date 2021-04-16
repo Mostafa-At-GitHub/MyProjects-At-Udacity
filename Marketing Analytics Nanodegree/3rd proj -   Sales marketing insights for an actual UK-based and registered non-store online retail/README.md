@@ -1,5 +1,5 @@
-﻿### Project name: "Storytelling with Data"
-### Main focused: Sales marketing insights for an actual UK-based and registered non-store online retail
+#### Project name: "Storytelling with Data"
+#### Main focused: Sales marketing insights for an actual UK-based and registered non-store online retail
 ### [Project Presentation Preview](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20presentation.pdf) 'insights extracted'
 ### [3rd Project](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20presentation.pdf), tasks short description
 
