@@ -1,5 +1,5 @@
-### Project name: "Working with Data"
-### Main focused: LinkedIn jobs skills Tableau dashboard insights
+#### Project name: "Working with Data"
+#### Main focused: LinkedIn jobs skills Tableau dashboard insights
 ### [Project Presentation Preview](1ST%20PROJECT%20Working%20with%20Data%20-%20LinkedIn%20Top%20Skills%20Insights%20-%202nd%20submission.pdf) 'insights extracted'
 ### [Interactive Dashboard Link](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday) 'where the insights were extracted from'
 [![LinkedIn jobs skills Tableau Dashboard Preview](linkedintopskills.png "LinkedIn jobs skills Tableau Dashboard Preview")](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
