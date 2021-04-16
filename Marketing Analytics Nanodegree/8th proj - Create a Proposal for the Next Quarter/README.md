@@ -1,4 +1,4 @@
-##### Project name: "Create a Proposal for the Next Quarter"
+#### Project name: "Create a Proposal for the Next Quarter"
 #### Main focused: Evaluating the performance of the Black Friday sales for 2017 & 2018
 ### [Project Presentation Preview](8th%20Final%20PROJECT-%20evaluating%20the%20performance%20of%20the%20Black%20Friday%20sales%20for%202017%20%26%202018.pdf)
 ### [8th Project](8th%20Final%20PROJECT-%20evaluating%20the%20performance%20of%20the%20Black%20Friday%20sales%20for%202017%20%26%202018.pdf), tasks short description
