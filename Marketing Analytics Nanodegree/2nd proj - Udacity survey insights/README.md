@@ -1,5 +1,5 @@
-### Project name: "Analyze Survey Data"
-### Main focused: Udacity survey visualed insights 
+#### Project name: "Analyze Survey Data"
+#### Main focused: Udacity survey visualed insights 
 ### [Project Presentation Preview](2nd%20PROJECT%20Analyze%20Survey%20Data%20-%20Visualed%20Insights%20presentation.pdf)
 
 ### [2nd Project](2nd%20PROJECT%20Analyze%20Survey%20Data%20-%20Visualed%20Insights%20presentation.pdf), tasks short description
