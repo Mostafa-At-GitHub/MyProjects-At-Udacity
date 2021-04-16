@@ -1,6 +1,6 @@
-### [Project Code Notebook Preview](wrangle_act.ipynb) 
-### Project Wrangle Report Preview: [**wrangle_report.pdf**](wrangle_report.pdf) or [**wrangle_report.ipynb**](wrangle_report.ipynb)
-### Project Act Report Preview: [**act_report.pdf**](act_report.pdf) or [**act_report.ipynb**](act_report.ipynb)
+#### [Project Code Notebook Preview](wrangle_act.ipynb) 
+#### Project Wrangle Report Preview: [**wrangle_report.pdf**](wrangle_report.pdf) or [**wrangle_report.ipynb**](wrangle_report.ipynb)
+#### Project Act Report Preview: [**act_report.pdf**](act_report.pdf) or [**act_report.ipynb**](act_report.ipynb)
 
 ### [2nd Project](wrangle_act.ipynb), tasks short description
 
