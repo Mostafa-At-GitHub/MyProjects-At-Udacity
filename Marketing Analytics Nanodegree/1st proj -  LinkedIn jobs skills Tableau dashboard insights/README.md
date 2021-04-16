@@ -1,9 +1,9 @@
 ### Project name: "Working with Data"
 ### Main focused: LinkedIn jobs skills Tableau dashboard insights
-### [Project Presentation Preview](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/1ST%20PROJECT%20Working%20with%20Data%20-%20LinkedIn%20Top%20Skills%20Insights%20-%202nd%20submission.pdf) 'insights extracted'
+### [Project Presentation Preview](1ST%20PROJECT%20Working%20with%20Data%20-%20LinkedIn%20Top%20Skills%20Insights%20-%202nd%20submission.pdf) 'insights extracted'
 ### [Interactive Dashboard Link](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday) 'where the insights were extracted from'
-[![LinkedIn jobs skills Tableau Dashboard Preview](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/linkedintopskills.png "LinkedIn jobs skills Tableau Dashboard Preview")](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
-### [1st Project](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/1ST%20PROJECT%20Working%20with%20Data%20-%20LinkedIn%20Top%20Skills%20Insights%20-%202nd%20submission.pdf), tasks short description
+[![LinkedIn jobs skills Tableau Dashboard Preview](linkedintopskills.png "LinkedIn jobs skills Tableau Dashboard Preview")](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
+### [1st Project](1ST%20PROJECT%20Working%20with%20Data%20-%20LinkedIn%20Top%20Skills%20Insights%20-%202nd%20submission.pdf), tasks short description
 
 - The project was an intended analysis for extracting insights from a "Tableau dashboard" for one of these  three subjects: 
 
@@ -17,7 +17,7 @@ Here is the jobs skills online dashboard link: [LinkedIn Top Skills 2016 - Makeo
 
 ### Reviews highlights for my submissions
 
-*__[1st review](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%201%20specification%20requires%20changes.pdf) highlights:__*
+*__[1st review](Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%201%20specification%20requires%20changes.pdf) highlights:__*
 
 - This is an excellent submission! You presented three very interesting insights and backed them up with some robust analysis. Great job,
 keep it up! :)
@@ -28,7 +28,7 @@ also gives your readers a heads up on what you're going to be talking about.
 information from the dashboard to back your findings. Terrific! :)
 - Your screenshots appropriately illustrate the written part of your response. Excellent!
 
-*__[2nd review](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/main/Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
+*__[2nd review](Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 
 - Congratulations for your work and project submitted. Insights where very well presented and displayed properly. You really did a great
 job.
