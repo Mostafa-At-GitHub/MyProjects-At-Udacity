@@ -1,5 +1,5 @@
-### Project name: "Navigating, Reports, and Dashboards"
-### Main focused: Google Data Studio dashboard
+#### Project name: "Navigating, Reports, and Dashboards"
+#### Main focused: Google Data Studio dashboard
 ### [Project Presentation Preview](6TH%20PROJECT%20Navigating%2C%20Reports%2C%20and%20Dashboards.pdf)
 ### [6th Project](6TH%20PROJECT%20Navigating%2C%20Reports%2C%20and%20Dashboards.pdf), tasks short description
 
