@@ -8,7 +8,12 @@
      ###### [3rd project - Conquer the freelancing marketplaces](Data%20Analysis%20Nanodegree/2.%20Professional%20Track/3rd%20proj%20-%20%20Conquer%20the%20freelancing%20marketplaces)<br>
 * [Advanced Track](Data%20Analysis%20Nanodegree/3.%20Advanced%20Track "Advanced Track Projects")
 
-## [Marketing Analytics Nanodegree](Marketing%20Analytics%20Nanodegree)<br>
-     ###### [1st project - Explore US Bikeshare Data](Data%20Analysis%20Nanodegree/2.%20Professional%20Track/1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data)
-     ###### [2nd project - Wrangle and Analyze Data](Data%20Analysis%20Nanodegree/2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data)
-     ###### [3rd project - Conquer the freelancing marketplaces](Data%20Analysis%20Nanodegree/2.%20Professional%20Track/3rd%20proj%20-
+## [Marketing Analytics Nanodegree](Marketing%20Analytics%20Nanodegree)
+###### [1st project - Working with Data](1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights "LinkedIn jobs skills Tableau dashboard insights")
+###### [2nd project - Analyze Survey Data](2nd%20proj%20-%20Udacity%20survey%20insights "Udacity survey insights")
+###### [3rd project - Storytelling with Data](3rd%20proj%20-%20%20%20Sales%20marketing%20insights%20for%20an%20actual%20UK-based%20and%20registered%20non-store%20online%20retail "Sales marketing insights for an actual UK-based and registered non-store online retail")
+###### [4th project - Build Data Dashboards](4th%20proj%20-%20YouTube%20Video%20Categories%20Statistics%20Tableau%20Dashboard "YouTube Video Categories Statistics Tableau Dashboard")
+###### [5th project - Use Advanced Displays, Segments & Views](5th%20proj%20-%20Google%20Analytics%20Report "Google Analytics Report")
+###### [6th project - Navigating, Reports, and Dashboards](6th%20proj%20-%20Google%20Data%20Studio%20dashboard "Google Data Studio dashboard")
+###### [7th project - Crafting an Analytic Brief](7th%20proj%20-%20%20Analytic%20Brief%20for%20Udacity%20School%20of%20Business "Analytic Brief for Udacity School of Business")
+###### [8th project - Create a Proposal for the Next Quarter](8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter "Create a Proposal for the Next Quarter")
