@@ -15,7 +15,7 @@
     - [**wrangle_report.pdf**](wrangle_report.pdf) or [**wrangle_report.ipynb**](wrangle_report.ipynb)**:** **documentation for data wrangling steps**: gather, assess, and clean
     - [**act_report.pdf**](act_report.pdf) or [**act_report.ipynb**](act_report.ipynb): **documentation of analysis and insights** into final data
 - _**with the datasets**_:
-    - [twitter_archive_enhanced.csv](datasets/twitter_archive_enhanced.csv): file as given
+    - [twitter_archive_enhanced.csv](datasets/twitter-archive-enhanced.csv): file as given
     - [image_predictions.tsv](datasets/image-predictions.tsv): file downloaded programmatically
     - [tweet_json.txt](datasets/tweet-json.txt): file constructed via API
     - [twitter_archive_master.csv](twitter-archive-master.csv): combined and cleaned data
