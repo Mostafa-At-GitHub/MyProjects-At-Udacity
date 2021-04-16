@@ -1,15 +1,19 @@
-### [Project Presentation Preview]() 
+### [Project Code Notebook Preview](wrangle_act.ipynb) 
+### Project Wrangle Report Preview: [**wrangle_report.pdf**](wrangle_report.pdf) or [**wrangle_report.ipynb**](wrangle_report.ipynb)
+### Project Act Report Preview: [**act_report.pdf**](act_report.pdf) or [**act_report.ipynb**](act_report.ipynb)
 
-### [2nd Project](), tasks short description
+### [2nd Project](wrangle_act.ipynb), tasks short description
 
-- The project was an intended analysis for extracting insights from a "Tableau dashboard" for one of these  three subjects: 
-
-   - Madrid in Detail
-   - Malaria in Africa
-   - LinkedIn Top Skills
-
- I set out to make the analysis about jobs skills from the LinkedIn Tableau dashboard
-
+- The project was intended for wrangling and analyzing data after gathering from different three resources; offline file (`twitter-archive-enhanced.csv`), downloaded file (`image-predictions.tsv`) and Twitter API(`to have recieved tweets data stored in tweet_json.txt`), so as to extract insights (with one viz at least) from these data after assessing and cleaning tidiness and quality issues of them all.
+- _**After all we should have**_:
+    - [**wrangle_act.ipynb**](wrangle_act.ipynb)**:** **code** for gathering, assessing, cleaning, analyzing, and visualizing data
+    - [**wrangle_report.pdf**](wrangle_report.pdf) or [**wrangle_report.ipynb**](wrangle_report.ipynb)**:** **documentation for data wrangling steps**: gather, assess, and clean
+    - [**act_report.pdf**](act_report.pdf) or [**act_report.ipynb**](act_report.ipynb): **documentation of analysis and insights** into final data
+  _**with the datasets**_:
+    - [twitter_archive_enhanced.csv](datasets/twitter_archive_enhanced.csv): file as given
+    - [image_predictions.tsv](datasets/image_predictions.tsv): file downloaded programmatically
+    - [tweet_json.txt](datasets/tweet-json.txt): file constructed via API
+    - [twitter_archive_master.csv](twitter_archive_master.csv): combined and cleaned data
 
 ### Reviews highlights for my submissions
 
