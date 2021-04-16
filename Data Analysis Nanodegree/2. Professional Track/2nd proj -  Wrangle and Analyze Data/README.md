@@ -4,7 +4,7 @@
 
 
 
-__*Viz of first insight shows different tweets sources*__
+*Viz of first insight shows different tweets sources*
 ![Viz](Viz.png)
 
 ### [2nd Project](wrangle_act.ipynb), tasks short description
