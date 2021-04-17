@@ -13,7 +13,7 @@
 
 ### _MARKETING ANALYTICS_ [4]
 #### `Analytic Reporting`
-PROJECTS: [Create a Proposal for the Next Quarter](8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter), [Navigating, Reports, & Dashboards](6th%20proj%20-%20Google%20Data%20Studio%20dashboard)
+PROJECTS: Project: [Create a Proposal for the Next Quarter](8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter), Project: [Navigating, Reports, & Dashboards](6th%20proj%20-%20Google%20Data%20Studio%20dashboard)
 #### `Marketing Metrics`
 Project: [Create a Proposal for the Next Quarter](8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter)
 #### `Google Analytics`
