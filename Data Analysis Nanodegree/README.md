@@ -2,7 +2,7 @@
 
 * [Challenger Track](1.%20Challenger%20Track "My XLSX solved files and certification of track exam")
 * [Professional Track](2.%20Professional%20Track "Professional Track Projects")
-     ###### [1st project - Explore US Bikeshare Data](2.%20Professional%20Track/1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data)
-     ###### [2nd project - Wrangle and Analyze Data](2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data)
+     ###### [1st project - Explore US Bikeshare Data](2.%20Professional%20Track/1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data "A Python script to enable the user to do analysis on one of three data sets") *A Python script to enable the user to do analysis on one of three data sets*
+     ###### [2nd project - Wrangle and Analyze Data](2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data "Gathering data from different three resources, offline file, downloaded file and Twitter API, to extract insights (with one viz at least) after assessing and cleaning tidiness and quality issues; and to get documentation for data wrangling steps, documentation of analysis and insights, jupyter notebook for code of gathering, assessing, cleaning, analyzing, and visualizing data, and the final master data set") *Gathering data from different three resources, offline file, downloaded file and Twitter API, to extract insights (with one viz at least) after assessing and cleaning tidiness and quality issues; and to get documentation for data wrangling steps, documentation of analysis and insights, jupyter notebook for code of gathering, assessing, cleaning, analyzing, and visualizing data, and the final master data set*
      ###### [3rd project - Conquer the freelancing marketplaces](2.%20Professional%20Track/3rd%20proj%20-%20%20Conquer%20the%20freelancing%20marketplaces)<br>
 * [Advanced Track](3.%20Advanced%20Track "Advanced Track Projects")
