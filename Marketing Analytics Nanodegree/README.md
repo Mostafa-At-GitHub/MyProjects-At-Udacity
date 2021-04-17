@@ -13,32 +13,32 @@
 
 ### _MARKETING ANALYTICS_ [4]
 #### `Analytic Reporting`
-PROJECTS Project: Create a Proposal for the Next Quarter
-Project - Navigating, Reports, & Dashboards
+PROJECTS Project: [Create a Proposal for the Next Quarter](8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter)
+Project - [Navigating, Reports, & Dashboards](6th%20proj%20-%20Google%20Data%20Studio%20dashboard)
 #### `Marketing Metrics`
-Project: Create a Proposal for the Next Quarter
+Project: [Create a Proposal for the Next Quarter](8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter)
 #### `Google Analytics`
-Project - Navigating, Reports, & Dashboards
+Project - [Navigating, Reports, & Dashboards](6th%20proj%20-%20Google%20Data%20Studio%20dashboard)
 #### `Data Collection`
-Project: Create a Proposal for the Next Quarter
+Project: [Create a Proposal for the Next Quarter](8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter)
 ### _SPREADSHEETS_ [3]
 #### `Spreadsheet Functions`
-PROJECTS Analyze Survey Data
+PROJECTS [Analyze Survey Data](2nd%20proj%20-%20Udacity%20survey%20insights)
 #### `Data Visualization`
-PROJECTS Analyze Survey Data
+PROJECTS [Analyze Survey Data](2nd%20proj%20-%20Udacity%20survey%20insights)
 #### `Basic Spreadsheet Use`
-PROJECTS Analyze Survey Data
+PROJECTS [Analyze Survey Data](2nd%20proj%20-%20Udacity%20survey%20insights)
 ### _DATA VISUALIZATION_ [4]
 #### `Data Storytelling`
-PROJECTS Build Data Dashboards
+PROJECTS [Build Data Dashboards](4th%20proj%20-%20YouTube%20Video%20Categories%20Statistics%20Tableau%20Dashboard)
 #### `Data Presentation`
-Project - Navigating, Reports, & Dashboards
+Project - [Navigating, Reports, & Dashboards](6th%20proj%20-%20Google%20Data%20Studio%20dashboard)
 #### `Visualization Design`
-PROJECTS Build Data Dashboards
+PROJECTS [Build Data Dashboards](4th%20proj%20-%20YouTube%20Video%20Categories%20Statistics%20Tableau%20Dashboard)
 #### `Tableau Visualizations`
-PROJECTS Build Data Dashboards
+PROJECTS [Build Data Dashboards](4th%20proj%20-%20YouTube%20Video%20Categories%20Statistics%20Tableau%20Dashboard)
 ### _PROBABILITY & STATISTICS_ [2]
 #### `Basic Descriptive Statistics`
-PROJECTS Analyze Survey Data
+PROJECTS [Analyze Survey Data](2nd%20proj%20-%20Udacity%20survey%20insights)
 #### `Basic Inferential Statistics`
-PROJECTS Analyze Survey Data
+PROJECTS [Analyze Survey Data](2nd%20proj%20-%20Udacity%20survey%20insights)
