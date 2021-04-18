@@ -8,7 +8,7 @@
 - The project was an intended analysis for extracting insights from a "Tableau dashboard" for one of these  three subjects: 
 
    - [Madrid in Detail](https://public.tableau.com/views/MadridInDetail/MadridinDetail?:showVizHome=no)
-   - [Malaria in Africa](public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:showVizHome=no)
+   - [Malaria in Africa](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:showVizHome=no)
    - [LinkedIn Top Skills](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 
  I set out to make the analysis about jobs skills from the LinkedIn Tableau dashboard
