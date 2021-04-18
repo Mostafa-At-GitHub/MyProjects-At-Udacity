@@ -33,6 +33,6 @@ information from the dashboard to back your findings. Terrific! :)
 - Congratulations for your work and project submitted. Insights where very well presented and displayed properly. You really did a great
 job.
 - Well done.
-- You have precisely described each of insight reported. Usually it comes to answer to good questions. You job
+- You have precisely described each of insight reported. Usually it comes to answer to good questions. Your job
 made that happen.
 - Congratulations for the great job done.
