@@ -13,7 +13,7 @@
 - Congratulations on finishing the project 🎉
 - This was a brilliant submission. The work was exceptional! You did a great job and should be proud of yourself. After reviewing this
 submission, I am impressed and satisfied with the effort and understanding put in to make this project a success. All the requirements
-have been met successfully 100%
+have been met successfully 💯%
 - Keep doing the great work and all the best for future project.
 - Great work on previous suggestions!! Meets the specification.
 - Great work on providing clear labeling for each of your charts.
