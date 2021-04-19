@@ -1,4 +1,4 @@
-<p><h1 align="center">This repo is a container for my projects submitted on Udacity</h1></p>
+(<p><h1 align="center">This repo is a container for my projects submitted on Udacity</h1></p>
 <div align="center">
     <a href="https://linkedin.com/in/lnkdn1" style="text-decoration:None">
         <img alt="Mostafa | LinkedIn" width="40px" style="margin-right:20px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
@@ -8,7 +8,7 @@
     </a>
 </div>
 
-<h5 align="center"> To navigate easily through projects you can use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png" /></h5>
+<h5 align="center"> To navigate easily through projects you can use the upper left button with the bullet lines (<img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png" /></h5>)
 
 ## [Data Analysis Nanodegree](Data%20Analysis%20Nanodegree#readme)
 ### - [Challenger Track](Data%20Analysis%20Nanodegree/1.%20Challenger%20Track#readme "My XLSX solved files and certification of track exam")
