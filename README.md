@@ -7,7 +7,8 @@
         <img alt="Mostafa | Tableau Public" width="40px" style="margin-right:20px" src="https://public.tableau.com/s/favicon.ico" />
     </a>
 </div>
-###### To navigate through projects more easily click the upper left button with the bullet lines, next to "README.md"
+
+###### To navigate through projects more easily use the upper left button with the bullet lines, next to "README.md"
 
 ## [Data Analysis Nanodegree](Data%20Analysis%20Nanodegree#readme)
 ### - [Challenger Track](Data%20Analysis%20Nanodegree/1.%20Challenger%20Track#readme "My XLSX solved files and certification of track exam")
