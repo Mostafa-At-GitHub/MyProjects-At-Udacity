@@ -8,7 +8,7 @@
     </a>
 </div>
 
-<h6 align="center"> To navigate through projects more easily use the upper left button with the bullet lines, next to "README.md"</h6>
+<h6 align="center"> To navigate through projects more easily you can use the upper left button with the bullet lines, next to "README.md"</h6>
 
 ## [Data Analysis Nanodegree](Data%20Analysis%20Nanodegree#readme)
 ### - [Challenger Track](Data%20Analysis%20Nanodegree/1.%20Challenger%20Track#readme "My XLSX solved files and certification of track exam")
