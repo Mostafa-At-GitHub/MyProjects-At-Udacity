@@ -10,7 +10,7 @@
 
 <h5 align="center"> To navigate easily through projects you can use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"></h5>
 
-<details><summary>[Data Analysis Nanodegree](www.b.m)</summary>
+<details><summary>Data Analysis Nanodegree</summary>
     <p>
 
 ## [Data Analysis Nanodegree](Data%20Analysis%20Nanodegree#readme)
@@ -25,6 +25,9 @@
 
    </p>
 </details>
+
+<details><summary>Marketing Analytics Nanodegree</summary>
+    <p>
 
 ## [Marketing Analytics Nanodegree](Marketing%20Analytics%20Nanodegree)
 #### [1st project - Working with Data](Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights#readme "LinkedIn jobs skills Tableau dashboard insights") *LinkedIn jobs skills Tableau dashboard insights*
@@ -45,3 +48,6 @@
    *"Congratulations on passing this submission . This is an impressive submission with detailed notes, clear visuals and neat presentation. Good job. The bar chart and table are great for representing the sales and ad spend data for 2017 and 2018. They are ideal for representing diàerent groups of data and changes over time. Good job presenting the ROI on paid channels and the CPA per age group. Supporting texts have been included to give context to the analyses and to answer the marketing questions.
 All Sales information has been presented in the appropriate visuals. Short notes have also been included to report on the total revenue and average sales order for each year.
 Good job choosing the right metrics to determine the popularity of each product category; the number of orders. ......[Read full reviews](Marketing%20Analytics%20Nanodegree/8th%20proj%20-%20Create%20a%20Proposal%20for%20the%20Next%20Quarter#reviews-highlights-for-my-submissions)"*
+
+   </p>
+</details>
