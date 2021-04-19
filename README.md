@@ -9,9 +9,8 @@
 </div>
 
 <h5 align="center"> To navigate easily through projects you can use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"></h5>
-
+<div id="Data Analysis Nanodegree">
 ## [Data Analysis Nanodegree](Data%20Analysis%20Nanodegree#readme)
-<p>Data Analysis Nanodegree
 ### - [Challenger Track](Data%20Analysis%20Nanodegree/1.%20Challenger%20Track#readme "My XLSX solved files and certification of track exam")
 ### - [Professional Track](Data%20Analysis%20Nanodegree/2.%20Professional%20Track#readme "Professional Track Projects")<br>
   * #### [1st project - Explore US Bikeshare Data](Data%20Analysis%20Nanodegree/2.%20Professional%20Track/1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data#readme "A Python script to enable the user to do analysis on one of three data sets") *A Python script to enable the user to do analysis on one of three data sets*
@@ -20,7 +19,7 @@
     *"You have demonstrated a very good python coding skills and understanding of data wrangling process. You also did a fantastic job of incorporating the previous reviewer suggestions.......[Read full reviews](Data%20Analysis%20Nanodegree/2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data#reviews-highlights-for-my-submissions)"*
   * #### [3rd project - Conquer the freelancing marketplaces](Data%20Analysis%20Nanodegree/2.%20Professional%20Track/3rd%20proj%20-%20%20Conquer%20the%20freelancing%20marketplaces#readme)<br>
 ### - [Advanced Track](Data%20Analysis%20Nanodegree/3.%20Advanced%20Track "Advanced Track Projects")</p>
-
+</div>
 ## [Marketing Analytics Nanodegree](Marketing%20Analytics%20Nanodegree)
 #### [1st project - Working with Data](Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights#readme "LinkedIn jobs skills Tableau dashboard insights") *LinkedIn jobs skills Tableau dashboard insights*
    *"This is an excellent submission! You presented three very interesting insights and backed them up with some robust analysis. Great job adding a descriptive heading for each insight. You drew some good, air-tight conclusions from your analysis. You also presented ample data, facts and other information from the dashboard to back your findings. Terrific! :) Your screenshots appropriately illustrate the written part of your response. Excellent! Insights where very well presented and displayed properly. You really did a great job. You have precisely described each of insight reported. Usually it comes to answer to good questions. Your job made that happen. Congratulations for the great job done .......[Read full reviews](Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/README.md#reviews-highlights-for-my-submissions)"*
