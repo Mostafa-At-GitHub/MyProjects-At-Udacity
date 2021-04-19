@@ -10,7 +10,7 @@
 
 <h5 align="center"> To navigate easily through projects you can use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"></h5>
 
-<details><summary><a href="Data%20Analysis%20Nanodegree#readme"><h2>Data Analysis Nanodegree</h2></a></summary><p>
+<details><h2><summary><a href="Data%20Analysis%20Nanodegree#readme">Data Analysis Nanodegree</a></summary></h2><p>
 
 ### - [Challenger Track](Data%20Analysis%20Nanodegree/1.%20Challenger%20Track#readme "My XLSX solved files and certification of track exam")
 ### - [Professional Track](Data%20Analysis%20Nanodegree/2.%20Professional%20Track#readme "Professional Track Projects")<br>
@@ -21,8 +21,7 @@
   * #### [3rd project - Conquer the freelancing marketplaces](Data%20Analysis%20Nanodegree/2.%20Professional%20Track/3rd%20proj%20-%20%20Conquer%20the%20freelancing%20marketplaces#readme)<br>
 ### - [Advanced Track](Data%20Analysis%20Nanodegree/3.%20Advanced%20Track "Advanced Track Projects")
 
-</p>
-</details>
+</p></details>
 
 ## [Marketing Analytics Nanodegree](Marketing%20Analytics%20Nanodegree)
 #### [1st project - Working with Data](Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights#readme "LinkedIn jobs skills Tableau dashboard insights") *LinkedIn jobs skills Tableau dashboard insights*
