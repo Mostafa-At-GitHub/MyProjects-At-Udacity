@@ -18,7 +18,7 @@
     - [twitter_archive_enhanced.csv](datasets/twitter-archive-enhanced.csv): file as given
     - [image_predictions.tsv](datasets/image-predictions.tsv): file downloaded programmatically
     - [tweet_json.txt](datasets/tweet-json.txt): file constructed via API
-    - [twitter_archive_master.csv](twitter-archive-master.csv): combined and cleaned data
+    - [twitter_archive_master.csv](twitter_archive_master.csv): combined and cleaned data
 
 ### Reviews highlights for my submissions
 
