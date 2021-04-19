@@ -10,10 +10,10 @@
 
 <h5 align="center"> To navigate easily through projects you can use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"></h5>
 <br>
-<details><summary><font size="22"><b>Data Analysis Nanodegree</b></font> (click to expand)</summary>
+<details><summary><b>Data Analysis Nanodegree</b> (click to expand and to see projects)</summary>
     <p>
 
-## [Data Analysis Nanodegree](Data%20Analysis%20Nanodegree#readme)
+## <u>[Data Analysis Nanodegree](Data%20Analysis%20Nanodegree#readme)</u>
 ### - [Challenger Track](Data%20Analysis%20Nanodegree/1.%20Challenger%20Track#readme "My XLSX solved files and certification of track exam")
 ### - [Professional Track](Data%20Analysis%20Nanodegree/2.%20Professional%20Track#readme "Professional Track Projects")<br>
   * #### [1st project - Explore US Bikeshare Data](Data%20Analysis%20Nanodegree/2.%20Professional%20Track/1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data#readme "A Python script to enable the user to do analysis on one of three data sets") *A Python script to enable the user to do analysis on one of three data sets*
@@ -26,10 +26,10 @@
    </p>
 </details>
 
-<details><summary>Marketing Analytics Nanodegree (click to expand)</summary>
+<details><summary><b>Marketing Analytics Nanodegree</b> (click to expand and to see projects)</summary>
     <p>
 
-## [Marketing Analytics Nanodegree](Marketing%20Analytics%20Nanodegree)
+## <u>[Marketing Analytics Nanodegree](Marketing%20Analytics%20Nanodegree)</u>
 #### [1st project - Working with Data](Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights#readme "LinkedIn jobs skills Tableau dashboard insights") *LinkedIn jobs skills Tableau dashboard insights*
    *"This is an excellent submission! You presented three very interesting insights and backed them up with some robust analysis. Great job adding a descriptive heading for each insight. You drew some good, air-tight conclusions from your analysis. You also presented ample data, facts and other information from the dashboard to back your findings. Terrific! :) Your screenshots appropriately illustrate the written part of your response. Excellent! Insights where very well presented and displayed properly. You really did a great job. You have precisely described each of insight reported. Usually it comes to answer to good questions. Your job made that happen. Congratulations for the great job done .......[Read full reviews](Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/README.md#reviews-highlights-for-my-submissions)"*
 #### [2nd project - Analyze Survey Data](Marketing%20Analytics%20Nanodegree/2nd%20proj%20-%20Udacity%20survey%20insights#readme "Udacity survey insights") *Udacity survey insights*
