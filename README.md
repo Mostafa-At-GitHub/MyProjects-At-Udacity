@@ -24,6 +24,7 @@
 
 </p>
 </details>
+
 ## [Marketing Analytics Nanodegree](Marketing%20Analytics%20Nanodegree)
 #### [1st project - Working with Data](Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights#readme "LinkedIn jobs skills Tableau dashboard insights") *LinkedIn jobs skills Tableau dashboard insights*
    *"This is an excellent submission! You presented three very interesting insights and backed them up with some robust analysis. Great job adding a descriptive heading for each insight. You drew some good, air-tight conclusions from your analysis. You also presented ample data, facts and other information from the dashboard to back your findings. Terrific! :) Your screenshots appropriately illustrate the written part of your response. Excellent! Insights where very well presented and displayed properly. You really did a great job. You have precisely described each of insight reported. Usually it comes to answer to good questions. Your job made that happen. Congratulations for the great job done .......[Read full reviews](Marketing%20Analytics%20Nanodegree/1st%20proj%20-%20%20LinkedIn%20jobs%20skills%20Tableau%20dashboard%20insights/README.md#reviews-highlights-for-my-submissions)"*
