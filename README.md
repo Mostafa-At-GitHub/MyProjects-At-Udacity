@@ -9,7 +9,7 @@
 </div>
 
 <h5 align="center"> To navigate easily through projects you can use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"></h5>
-
+<br>
 <details><summary>Data Analysis Nanodegree (click to expand)</summary>
     <p>
 
