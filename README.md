@@ -13,7 +13,7 @@
 <details>
     <summary>
         <h2>
-            <a href="Data%20Analysis%20Nanodegree#readme">Data Analysis Nanodegree</a>
+            <a href="Data%20Analysis%20Nanodegree#readme">Data Analysis Nanodegree</a><br>
         </h2>
     </summary>
     <p>
