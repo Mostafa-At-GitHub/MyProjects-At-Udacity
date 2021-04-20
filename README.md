@@ -8,7 +8,6 @@
     </a>
 </div>
 <br>
-<h5 align="center"> Click arrows to expand or to collapse and to see projects </h5>
 <br>
 <details><summary><b>Data Analysis Nanodegree</b> (Click to expand or to collapse and to see projects)</summary>
     <p>
