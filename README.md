@@ -10,7 +10,7 @@
 
 <h5 align="center"> To navigate easily through projects you can use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"></h5>
 <br>
-<details><summary><b>Data Analysis Nanodegree</b> (click to expand and to see projects)</summary>
+<details><summary><b>Data Analysis Nanodegree</b> (Click to expand or to collapse and to see projects)</summary>
     <p>
 
 ## [Data Analysis Nanodegree](Data%20Analysis%20Nanodegree#readme)
@@ -26,7 +26,7 @@
    </p>
 </details>
 
-<details><summary><b>Marketing Analytics Nanodegree</b> (click to expand and to see projects)</summary>
+<details><summary><b>Marketing Analytics Nanodegree</b> (Click to expand or to collapse and to see projects)</summary>
     <p>
 
 ## [Marketing Analytics Nanodegree](Marketing%20Analytics%20Nanodegree)
