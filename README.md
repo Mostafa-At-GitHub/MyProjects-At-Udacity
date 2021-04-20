@@ -1,4 +1,4 @@
-<p><h1 align="center">This repo is a container for my projects submitted on Udacity</h1></p>
+<p><h1 align="center">This repo is a container for my projects submitted on Udacity</h1></p><br>
 <div align="center">
     <a href="https://linkedin.com/in/lnkdn1" style="text-decoration:None">
         <img alt="Mostafa | LinkedIn" width="40px" style="margin-right:20px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
