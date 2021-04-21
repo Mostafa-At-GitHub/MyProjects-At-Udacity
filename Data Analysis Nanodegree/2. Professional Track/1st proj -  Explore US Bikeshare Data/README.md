@@ -12,7 +12,7 @@ The picture below shows the data for the first 10 rides in the new_york_city.csv
 
 <div align="center">
 Running the python script
-
+ 
 <img alt="Sample" width="950px" style="margin-right:20px" src="bikeshare-system.PNG"></div>
 
 ### Reviews highlights for my submissions
