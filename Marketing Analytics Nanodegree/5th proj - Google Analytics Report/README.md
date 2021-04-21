@@ -3,7 +3,7 @@
 ### [Project Presentation Preview](5TH%20PROJECT%20Use%20Advanced%20Displays%2C%20Segments%20%26%20Views.pdf)
 ### [5th Project](5TH%20PROJECT%20Use%20Advanced%20Displays%2C%20Segments%20%26%20Views.pdf), tasks short description
 
- The project was for making a report using Google Analytics platform about "Google Mershandise store".
+ The project was for making a report using the Google Analytics platform about the "Google Merchandise store".
 
 ### Review highlights for my submission
 
