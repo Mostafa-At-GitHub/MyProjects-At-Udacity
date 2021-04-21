@@ -7,6 +7,9 @@
 The picture below shows the data for the first 10 rides in the new_york_city.csv file
 ![Sample](bikeshare-datasets/nyc-data.png)
 
+Running the python script
+![Script](bikeshare-system.PNG)
+
 ### Reviews highlights for my submissions
 *__[1st review](Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%201%20specification%20requires%20changes.pdf) highlights:__*
 
