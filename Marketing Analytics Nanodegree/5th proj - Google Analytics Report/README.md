@@ -17,7 +17,7 @@ this project.
 - Good job including a screenshot of existing filters; Rename Adwords Campaign and Include Hostname.
 - The process for creating a new filter has also been included.
 - This is well done! Please keep it up
-The trends for the weeks with the highest and lowest traÞc have been highlighted.
+The trends for the weeks with the highest and lowest traffic have been highlighted.
 The highest and lowest eCommerce conversion and the bounce rates have been included.
 The Site Speed Page Timings have been analysed and trouble spots have been identified;/store.html
 and /google+redesign/shop+by+brand/youtube
