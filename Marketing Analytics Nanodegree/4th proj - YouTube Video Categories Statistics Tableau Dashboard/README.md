@@ -6,11 +6,6 @@
 <div align="center">
   
 <div class='tableauPlaceholder' id='viz1619046450761' style='position: relative'>
-  
-  <noscript>
-  <a href='https:&#47;&#47;github.com&#47;Mostafa-At-GitHub&#47;MyProjects-At-Udacity&#47;tree&#47;master&#47;Marketing%20Analytics%20Nanodegree&#47;4th%20proj%20-%20YouTube%20Video%20Categories%20Statistics%20Tableau%20Dashboard#readme'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Yo&#47;YoutubeDataUS_16081098874500&#47;YouTubeVideoCategoriesViewsStory&#47;1_rss.png' style='border: none' /></a>
-  
-</noscript>
 
 <object class='tableauViz'  style='display:none;'>
   
