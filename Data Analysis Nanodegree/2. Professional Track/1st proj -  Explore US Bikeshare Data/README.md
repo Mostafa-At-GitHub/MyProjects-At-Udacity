@@ -11,7 +11,9 @@ The picture below shows the data for the first 10 rides in the new_york_city.csv
 
 
 Running the python script
-![Script](bikeshare-system.PNG)
+
+<div align="center">
+<img alt="Sample" width="900px" style="margin-right:20px" src="bikeshare-system.PNG"></div>
 
 ### Reviews highlights for my submissions
 *__[1st review](Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%201%20specification%20requires%20changes.pdf) highlights:__*
