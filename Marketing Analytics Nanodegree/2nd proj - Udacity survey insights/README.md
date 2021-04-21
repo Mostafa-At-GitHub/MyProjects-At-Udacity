@@ -5,7 +5,7 @@
 ### [2nd Project](2nd%20PROJECT%20Analyze%20Survey%20Data%20-%20Visualed%20Insights%20presentation.pdf), tasks short description
 
 - The project was an intended analysis for extracting insights about Udacity from survey Data.
-- Attached my clean work as one xslx workbook with my insights presentation.
+- Attached my clean work as one [xslx workbook](2nd%20PROJECT%20Analyze%20Survey%20Data%20-%20Visualed%20Insights%20workbook.xlsx) with my [insights presentation](2nd%20PROJECT%20Analyze%20Survey%20Data%20-%20Visualed%20Insights%20presentation.pdf).
 
 ### Review highlights for my submission
 
