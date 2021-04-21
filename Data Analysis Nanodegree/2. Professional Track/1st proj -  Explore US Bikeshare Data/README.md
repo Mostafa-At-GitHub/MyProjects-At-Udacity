@@ -5,13 +5,13 @@
 - The project was for writing a Python script to enable the user to do analysis on Bikeshare system data for cities; Chicago, New York City, and Washington, from their respective [three data sets](bikeshare-datasets), and to answer questions about popular times of travel, popular stations and trip, trip duration and user info.
 
 <div align="center">
-The picture below shows the data for the first 10 rides in the new_york_city.csv file
+*The picture below shows the data for the first 10 rides in the new_york_city.csv file*
 
 <img alt="Sample" width="800px" style="margin-right:20px" src="bikeshare-datasets/nyc-data.png"></div>
 <br>
 
 <div align="center">
-Running the python script
+*Running the python script*
  
 <img alt="Sample" width="950px" style="margin-right:20px" src="bikeshare-system.PNG"></div>
 
