@@ -1,4 +1,4 @@
-<p><h1 align="center">This repo is a container for my projects (Presentations, Python scripts, ipynb Notebooks, dashboards links ..... etc),
+<p><h1 align="center">This repo is a container for my projects (Presentations, Python scripts, ipynb Notebooks, Dashboards links ..... etc),
     submitted on Udacity</h1></p><br>
 <div align="center">
     <a href="https://linkedin.com/in/lnkdn1" style="text-decoration:None">
