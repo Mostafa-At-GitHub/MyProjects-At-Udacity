@@ -4,7 +4,7 @@
 ### [3rd Project](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20presentation.pdf), tasks short description
 
 - The project was an intended analysis for extracting marketing insights about sales for an Actual UK-based and registered non-store online retail, from a transnational data set published by The UCI Machine Learning Repository.
-- Attached my clean work as one [xslx workbook](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20workbook.xlsx) with my [insights presentation](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20presentation.pdf).
+- Attached my clean work as one [xslx workbook](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20workbook.xlsx) with my [story insights presentation](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20presentation.pdf).
 
 ### Review highlights for my submission
 
