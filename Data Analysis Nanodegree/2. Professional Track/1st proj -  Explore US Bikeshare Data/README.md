@@ -8,8 +8,7 @@ The picture below shows the data for the first 10 rides in the new_york_city.csv
 
 <div align="center">
 <img alt="Sample" width="800px" style="margin-right:20px" src="bikeshare-datasets/nyc-data.png"></div>
-
-
+<br><br>
 Running the python script
 
 <div align="center">
