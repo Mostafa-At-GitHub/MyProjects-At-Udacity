@@ -7,9 +7,9 @@
         <img alt="Mostafa | Tableau Public" width="40px" style="margin-right:20px" src="https://public.tableau.com/s/favicon.ico">
     </a>
 </div>
-<br><h6 align="center"> To navigate easily through projects you can expand desired arrow then use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"></h6>
+<br><h6 align="center">Expand desired arrow then use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"></h6> to navigate easily through projects
 <br>
-<details><summary><b>Data Analysis Nanodegree</b> (Click to expand or to collapse and to see projects)</summary>
+<details><summary><b>Data Analysis Nanodegree</b> (Click to expand or to collapse and to see projects and reviews links)</summary>
     <p>
 
 ## [Data Analysis Nanodegree](Data%20Analysis%20Nanodegree#readme)
@@ -25,7 +25,7 @@
    </p>
 </details>
 
-<details><summary><b>Marketing Analytics Nanodegree</b> (Click to expand or to collapse and to see projects)</summary>
+<details><summary><b>Marketing Analytics Nanodegree</b> (Click to expand or to collapse and to see projects and reviews links)</summary>
     <p>
 
 ## [Marketing Analytics Nanodegree](Marketing%20Analytics%20Nanodegree)
