@@ -5,7 +5,7 @@
 
  The project was intended to analyze marketing data and craft a Campaign Report by evaluating the performance of the Black Friday sales for 2017 & 2018 using a data set on Google Sheet. 
 
- Attached my clean work as one xslx workbook with my insights presentation that includes the vizs.
+ Attached my clean work as one [xslx workbook](8th%20(Final)%20PROJECT%20Workbook.xlsx) with [my evaluating presentation](8th%20Final%20PROJECT-%20evaluating%20the%20performance%20of%20the%20Black%20Friday%20sales%20for%202017%20%26%202018.pdf) that includes the vizs.
 
 ### Reviews highlights for my submissions
 
