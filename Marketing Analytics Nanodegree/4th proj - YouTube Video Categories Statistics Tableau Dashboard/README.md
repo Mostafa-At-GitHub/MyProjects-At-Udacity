@@ -10,7 +10,7 @@
   - US Census Demographic Data
   - Youtube Data from the US
 
-  I set out to make all three, finally, I completed the work for a story from [three CSV files data sets](youtubedata%20-%20XLSX%20files) collected using YouTube API, backed by my [dashboard and sheets for youtube vedio categories viewed in the American States from the start of Nov 14, 2017, to the end of March 20, 2018](https://public.tableau.com/profile/m3836#!/vizhome/YoutubeDataUS_16081098874500/YouTubeVideoCategoriesViewsStory).
+  I set out to make all three, finally, I completed the work for a story from [three CSV files data sets](youtubedata%20-%20XLSX%20files) collected using YouTube API, backed by [my dashboard and sheets for youtube vedio categories viewed in the American States from the start of Nov 14, 2017, to the end of March 20, 2018](https://public.tableau.com/profile/m3836#!/vizhome/YoutubeDataUS_16081098874500/YouTubeVideoCategoriesViewsStory).
 
 - Attached [my presentation work](4TH%20PROJECT%20Build%20Data%20Dashboards%20-%20YouTube%20Video%20Categories%20Statistics%20modded.pdf), and the data sets are in the folder named '[youtubedata - XLSX files](youtubedata%20-%20XLSX%20files)'.
 
