@@ -11,7 +11,7 @@
      - Lime Scooters (In your city)
      - Udacity School of Business
 
-  I set out to make a report for each of the five, finally, I completed the work of a report dedicated to 'Udacity School of Business'.
+  I set out to make a report for each of the five, finally, I completed the work of a [report dedicated to 'Udacity School of Business'](7th%20PROJECT%20Crafting%20an%20Analytic%20Brief%20%20-%20Udacity's%20School%20of%20Business.pdf).
 
 ### Review highlights for my submission
 
