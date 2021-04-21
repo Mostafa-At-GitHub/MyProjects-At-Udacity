@@ -5,6 +5,8 @@
 
  The project was for making a [report](6TH%20PROJECT%20Navigating%2C%20Reports%2C%20and%20Dashboards.pdf) and a [dashboard](https://datastudio.google.com/reporting/0bff51b5-f006-44f5-98d6-d0127f359c97/page/Nf4uB) using Google Data Studio and Google Analytics platforms about the "Google Merchandise store".
 
+<iframe width="600" height="300" src="https://datastudio.google.com/embed/reporting/0bff51b5-f006-44f5-98d6-d0127f359c97/page/Nf4uB" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 ### Review highlights for my submission
 
 *__[1st review](Udacity%20Detailed%20Review/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
