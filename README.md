@@ -10,6 +10,9 @@
     <a href="https://www.guru.com/freelancers/mostafa-a-hosni/portfolio" style="text-decoration:None">
         <img alt="Mostafa | Guru" width="40px" style="margin-right:20px" src="https://www.guru.com/favicon.ico">
     </a>
+    <a href="https://www.slideshare.net/MostafaA13" style="text-decoration:None">
+        <img alt="Mostafa | Slidshare" width="40px" style="margin-right:20px" src="https://public.slidesharecdn.com/v2/favicon.ico">
+    </a>
 </div>
 <br><h6 align="center">Expand the desired arrow then use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"> to navigate easily through projects</h6>
 <br>
