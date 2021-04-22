@@ -3,7 +3,7 @@
 ### [Project Presentation Preview](6TH%20PROJECT%20Navigating%2C%20Reports%2C%20and%20Dashboards.pdf)
 ### [6th Project](6TH%20PROJECT%20Navigating%2C%20Reports%2C%20and%20Dashboards.pdf), tasks short description
 
- The project was for making a [report](6TH%20PROJECT%20Navigating%2C%20Reports%2C%20and%20Dashboards.pdf) and a [dashboard](https://datastudio.google.com/reporting/0bff51b5-f006-44f5-98d6-d0127f359c97/page/Nf4uB) using Google Data Studio and Google Analytics platforms about the "Google Merchandise store".
+ The project was for making a [report](6TH%20PROJECT%20Navigating%2C%20Reports%2C%20and%20Dashboards.pdf) and a [dashboard](https://datastudio.google.com/embed/reporting/0bff51b5-f006-44f5-98d6-d0127f359c97/page/Nf4uB) using Google Data Studio and Google Analytics platforms about the "Google Merchandise store".
 
 ### Review highlights for my submission
 
