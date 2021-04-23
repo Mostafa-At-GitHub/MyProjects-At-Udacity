@@ -1,16 +1,16 @@
 <p><h1 align="center">This repo is a container for my projects (Presentations, Python scripts, ipynb Notebooks, Dashboards links ..... etc),
     submitted on Udacity</h1></p><br>
 <div align="center">
-    <a href="https://linkedin.com/in/lnkdn1" style="text-decoration:None">
+    <a href="https://cutt.ly/VvV0GyH" style="text-decoration:None">
         <img alt="Mostafa | LinkedIn" width="40px" style="margin-right:20px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
     </a> 
-    <a href="https://public.tableau.com/profile/m3836#!/" style="text-decoration:None">
+    <a href="https://cutt.ly/OvV2fPd" style="text-decoration:None">
         <img alt="Mostafa | Tableau Public" width="40px" style="margin-right:20px" src="https://public.tableau.com/s/favicon.ico">
     </a>
-    <a href="https://www.guru.com/freelancers/mostafa-a-hosni/portfolio" style="text-decoration:None">
+    <a href="https://cutt.ly/2vV2PMv" style="text-decoration:None">
         <img alt="Mostafa | Guru" width="40px" style="margin-right:20px" src="https://www.guru.com/favicon.ico">
     </a>
-    <a href="https://www.slideshare.net/MostafaA13" style="text-decoration:None">
+    <a href="https://cutt.ly/xvV9ybV" style="text-decoration:None">
         <img alt="Mostafa | Slidshare" width="40px" style="margin-right:20px" src="https://public.slidesharecdn.com/v2/favicon.ico">
     </a>
 </div>
