@@ -7,9 +7,9 @@
  
 *A photoshoot of LinkedIn jobs skills Tableau dashboard<br>where my insights were taken from*
  
-<a title="Tableau Dashboard Preview where insights were taken from" href="https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday"><img alt="LinkedIn jobs skills Tableau dashboard Preview" width="950px" style="margin-right:20px" src="linkedintopskills.png"></a>
+<a title="Tableau Dashboard Preview where insights were taken from" href="https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday"><img alt="LinkedIn jobs skills Tableau dashboard Preview" width="850px" style="margin-right:20px" src="linkedintopskills.png"></a>
 <br>
-*Click the photo to view the script code*
+*Click the photo to show the interactive dashboard*
 </div>
 
 ### [1st Project](https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview), tasks short description
