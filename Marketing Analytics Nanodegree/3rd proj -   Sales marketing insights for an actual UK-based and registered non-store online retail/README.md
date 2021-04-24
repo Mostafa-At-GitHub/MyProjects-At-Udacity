@@ -6,6 +6,14 @@
 - The project was an intended analysis for extracting marketing insights about sales for an Actual UK-based and registered non-store online retail, from a transnational data set published by The UCI Machine Learning Repository.
 - Attached my clean work as one [xslx workbook](https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_XSLX-workbook) with my [story insights presentation](https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Presentation-Preview).
 
+<div align="center">
+ 
+*A photoshoot of the project presentation*
+<a title="A photo of first paper" href="https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="850px" style="margin-right:20px" src="3rd-PROJECT-1st-photo.jpg"></a>
+<br>
+*Click the photo to show the presentation*
+</div>
+
 ### Review highlights for my submission
 
 *__[1st review](https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Review) highlights:__*
