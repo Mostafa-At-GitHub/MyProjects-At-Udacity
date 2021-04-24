@@ -4,9 +4,10 @@
 
 <div align="center">
 
-*A photoshoot of Viz of first insight shows different tweets sources*
+*A photoshoot of the Viz of first insight shows different tweets sources*
 
-[![First Insight Viz](Viz.png)](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview "First Insight Viualization")
+<a title="First Insight Viualization" href="https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview"><img alt="First Insight Viz" width="700px" style="margin-right:20px" src="Viz.png"></a>
+<br>
 *Click the viz to view the whole insights report*
 
 </div>
