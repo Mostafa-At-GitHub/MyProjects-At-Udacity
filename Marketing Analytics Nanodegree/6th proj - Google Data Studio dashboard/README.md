@@ -15,6 +15,7 @@
 *Click the photo to go to the interactive dashboard page*
 <br><br>
 *A photoshoot of the project presentation cover*
+
 <a title="A photo of cover" href="https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Presentation-Preview"><img alt="A photoshoot of the project presentation cover" width="525px" style="margin-right:20px" src="images/6th-PROJECT-1st-photo.jpg"></a>
 <br>
 *Click the photo to show the report presentation*
