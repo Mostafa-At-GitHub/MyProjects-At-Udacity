@@ -9,6 +9,20 @@
  
 [![Youtube Categories US Data Dashboard Preview](YouTube%20Video%20Categories%20Statistics%20Dashboard%20(Faded%20Bars).png "Youtube Categories US Data Dashboard Preview")](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Tableau-Dashboard)
  *Click the photo to go to the interactive dashboard page*
+ <br>
+ *A photoshoot of the project presentation first slide*
+<a title="A photo of first slide" href="https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="800px" style="margin-right:20px" src="images/4th-PROJECT-1st-photo.jpg"></a>
+<br>
+*Click the photo to show the presentation*
+<br><br>
+<a title="A photo of second slide" href="https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/4th-PROJECT-2nd-photo.jpg"></a>
+<a title="A photo of third slide" href="https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/4th-PROJECT-3rd-photo.jpg"></a>
+<a title="A photo of fourth slide" href="https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/4th-PROJECT-4th-photo.jpg"></a>
+<a title="A photo of fifth slide" href="https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/4th-PROJECT-5th-photo.jpg"></a>
+<a title="A photo of sixth slide" href="https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/4th-PROJECT-6th-photo.jpg"></a>
+<a title="A photo of seventh slide" href="https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/4th-PROJECT-7th-photo.jpg"></a>
+<br><br>
+<a title="A photo of eighth slide" href="https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/4th-PROJECT-8th-photo.jpg"></a>
 </div>
 
 ### [4th Project](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview), tasks short description
