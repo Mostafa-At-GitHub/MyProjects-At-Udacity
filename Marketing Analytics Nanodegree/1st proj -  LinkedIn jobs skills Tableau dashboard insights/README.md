@@ -1,9 +1,9 @@
 #### Project name: "Working with Data"
 #### Main focused: LinkedIn jobs skills Tableau dashboard insights
-### [Project Presentation Preview](1ST%20PROJECT%20Working%20with%20Data%20-%20LinkedIn%20Top%20Skills%20Insights%20-%202nd%20submission.pdf) 'insights extracted'
+### [Project Presentation Preview](https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview) 'insights extracted'
 ### [Interactive Dashboard Link](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday) 'where the insights were extracted from'
 [![LinkedIn jobs skills Tableau Dashboard Preview](linkedintopskills.png "LinkedIn jobs skills Tableau Dashboard Preview")](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
-### [1st Project](1ST%20PROJECT%20Working%20with%20Data%20-%20LinkedIn%20Top%20Skills%20Insights%20-%202nd%20submission.pdf), tasks short description
+### [1st Project](https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview), tasks short description
 
 - The project was an intended analysis for extracting insights from a "Tableau dashboard" for one of these  three subjects: 
 
@@ -11,13 +11,13 @@
    - [Malaria in Africa](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:showVizHome=no)
    - [LinkedIn Top Skills](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 
- I set out to make the analysis about jobs skills from the LinkedIn Tableau dashboard
+ I set out to make [the analysis](https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview) about jobs skills from the LinkedIn Tableau dashboard
 
 Here is the jobs skills online dashboard link: [LinkedIn Top Skills 2016 - MakeoverMonday - Matt Chambers - Tableau Public](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 
 ### Reviews highlights for my submissions
 
-*__[1st review](Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%201%20specification%20requires%20changes.pdf) highlights:__*
+*__[1st review](https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Review_1) highlights:__*
 
 - This is an excellent submission! You presented three very interesting insights and backed them up with some robust analysis. Great job,
 keep it up! :)
@@ -28,7 +28,7 @@ also gives your readers a heads up on what you're going to be talking about.
 information from the dashboard to back your findings. Terrific! :)
 - Your screenshots appropriately illustrate the written part of your response. Excellent!
 
-*__[2nd review](Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
+*__[2nd review](https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Review_2) highlights:__*
 
 - Congratulations for your work and project submitted. Insights where very well presented and displayed properly. You really did a great
 job.
