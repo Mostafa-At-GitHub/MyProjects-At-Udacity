@@ -1,9 +1,9 @@
 #### Project name: "Navigating, Reports, and Dashboards"
 #### Main focused: Google Data Studio dashboard
-### [Project Presentation Preview](6TH%20PROJECT%20Navigating%2C%20Reports%2C%20and%20Dashboards.pdf)
-### [6th Project](6TH%20PROJECT%20Navigating%2C%20Reports%2C%20and%20Dashboards.pdf), tasks short description
+### [Project Presentation Preview](https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Presentation-Preview)
+### [6th Project](https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Presentation-Preview), tasks short description
 
- The project was for making a [report](6TH%20PROJECT%20Navigating%2C%20Reports%2C%20and%20Dashboards.pdf) and a [dashboard](https://datastudio.google.com/embed/reporting/0bff51b5-f006-44f5-98d6-d0127f359c97/page/Nf4uB) using Google Data Studio and Google Analytics platforms about the "Google Merchandise store".
+ The project was for making a [report](https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Presentation-Preview) and a [dashboard](https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Google-Data-Studio-Dashboard) using Google Data Studio and Google Analytics platforms about the "Google Merchandise store".
 
 ### Review highlights for my submission
 
