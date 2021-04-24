@@ -2,10 +2,14 @@
 #### Project Wrangle Report Preview: [**wrangle_report.pdf**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview) or [**wrangle_report.ipynb**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview_ipynb)        ([Click here to view on "Jupyter Notebook Viewer"](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview_ipynb_nbviewer))
 #### Project Act Report Preview: [**act_report.pdf**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview) or [**act_report.ipynb**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview_ipynb)        ([Click here to view on "Jupyter Notebook Viewer"](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview_ipynb_nbviewer))
 
+<div align="center">
 
+*A photoshoot of Viz of first insight shows different tweets sources*
 
-*Viz of first insight shows different tweets sources*
-![Viz](Viz.png)
+[![First Insight Viz](Viz.png)](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview "First Insight Viualization")
+*Click the viz to view the whole insights report*
+
+</div>
 
 ### [2nd Project](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Code-Preview), tasks short description
 
