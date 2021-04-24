@@ -6,7 +6,7 @@
 
 *A photoshoot of the Viz of first insight shows different tweets sources*
 
-<a title="First Insight Viualization" href="https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview"><img alt="First Insight Viz" width="850px" style="margin-right:20px" src="Viz.png"></a>
+<a title="First Insight Viualization" href="https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview"><img alt="First Insight Viz" width="825px" style="margin-right:20px" src="Viz.png"></a>
 <br>
 *Click the viz to view the whole insights report*
 
