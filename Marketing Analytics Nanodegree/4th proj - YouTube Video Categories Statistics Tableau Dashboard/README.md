@@ -8,7 +8,7 @@
  *A photoshoot of my Tableau dashboard for Youtube viewed categories in US regions<br>from the start of Nov 14, 2017, to the end of March 20, 2018*
  
 [![Youtube Categories US Data Dashboard Preview](YouTube%20Video%20Categories%20Statistics%20Dashboard%20(Faded%20Bars).png "Youtube Categories US Data Dashboard Preview")](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Tableau-Dashboard)
- (click to go to dashboard page)
+ *Click the photo to go to the interactive dashboard page*
 </div>
 
 ### [4th Project](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview), tasks short description
