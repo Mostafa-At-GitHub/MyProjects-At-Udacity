@@ -1,7 +1,7 @@
 #### Project name: "Crafting an Analytic Brief"
 #### Main focused: Analytic Brief for Udacity School of Business
-### [Project Presentation Preview](7th%20PROJECT%20Crafting%20an%20Analytic%20Brief%20%20-%20Udacity's%20School%20of%20Business.pdf)
-### [7th Project](7th%20PROJECT%20Crafting%20an%20Analytic%20Brief%20%20-%20Udacity's%20School%20of%20Business.pdf), tasks short description
+### [Project Presentation Preview](https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview)
+### [7th Project](https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview), tasks short description
 
  The project was intended for crafting an Analytic Brief for one of the companies below:
 
@@ -11,11 +11,11 @@
      - Lime Scooters (In your city)
      - Udacity School of Business
 
-  I set out to make a report for each of the five, finally, I completed the work of a [report dedicated to 'Udacity School of Business'](7th%20PROJECT%20Crafting%20an%20Analytic%20Brief%20%20-%20Udacity's%20School%20of%20Business.pdf).
+  I set out to make a report for each of the five, finally, I completed the work of a [report dedicated to 'Udacity School of Business'](https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview).
 
 ### Review highlights for my submission
 
-*__[1st review](Udacity%20Detailed%20Review/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
+*__[1st review](https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Review) highlights:__*
 
 - Congratulations on finishing the project 🎉
 This was a brilliant submission. The work was exceptional! You did a great job and should be proud of yourself. After reviewing this
