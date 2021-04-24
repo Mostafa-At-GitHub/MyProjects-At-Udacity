@@ -1,13 +1,13 @@
 #### Project name: "Use Advanced Displays, Segments & Views"
 #### Main focused: Google Analytics Report
-### [Project Presentation Preview](5TH%20PROJECT%20Use%20Advanced%20Displays%2C%20Segments%20%26%20Views.pdf)
-### [5th Project](5TH%20PROJECT%20Use%20Advanced%20Displays%2C%20Segments%20%26%20Views.pdf), tasks short description
+### [Project Presentation Preview](https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview)
+### [5th Project](https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview), tasks short description
 
- The project was for making a [report](5TH%20PROJECT%20Use%20Advanced%20Displays%2C%20Segments%20%26%20Views.pdf) using the Google Analytics platform about the "Google Merchandise store".
+ The project was for making a [report](https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview) using the Google Analytics platform about the "Google Merchandise store".
 
 ### Review highlights for my submission
 
-*__[1st review](Udacity%20Detailed%20Review/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
+*__[1st review](https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Review) highlights:__*
 
 - Congratulations on passing this submission . All screenshots are annotated to enhance understanding. Part 3 is especially
 well done with detailed notes to explain the trends for each segment. Keep it up.
