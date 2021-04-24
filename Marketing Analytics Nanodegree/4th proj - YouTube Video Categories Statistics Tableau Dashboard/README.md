@@ -20,7 +20,7 @@ __Dashboard link: [Youtube Data US](https://cutt.ly/4th-Project-Build-Data-Dashb
 
 ### Review highlights for my submission
 
-*__[1st review](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Review) highlights:__*
+*__[1st review](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Review) highlights:__*
 <br><div>
 - Kudos,
 Well done coming up with your insights, they are simple yet very informative. You did follow a lot of recommended guidelines and
