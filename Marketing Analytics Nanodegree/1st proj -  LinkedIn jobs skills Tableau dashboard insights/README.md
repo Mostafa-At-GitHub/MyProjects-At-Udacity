@@ -12,6 +12,7 @@
 <br><br>
 
 *Photoshoots of the project presentation*
+
 <a title="A photo of first paper" href="https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="450px" style="margin-right:20px" src="images/1ST-PROJECT-1st-photo.jpg"></a><a title="A photo of second paper" href="https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="450px" style="margin-right:20px" src="images/1ST-PROJECT-2nd-photo.jpg"></a>
 <br>
 *Click the photo to show the presentation*
