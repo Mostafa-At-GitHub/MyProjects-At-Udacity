@@ -7,14 +7,6 @@
 
  Attached my clean work as one [xslx workbook](https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_XSLX-Workbook) with [my evaluating presentation](https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview) that includes the vizs.
 
-<div>
- 
-<iframe src="https://www.slideshare.net/MostafaA13/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen>
-
-</iframe>
-
-</div>
-
 ### Reviews highlights for my submissions
 
 *__[1st review](https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Review_1) highlights:__*
