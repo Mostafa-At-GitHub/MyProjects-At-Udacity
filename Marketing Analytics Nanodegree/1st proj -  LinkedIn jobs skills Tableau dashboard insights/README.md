@@ -2,7 +2,16 @@
 #### Main focused: LinkedIn jobs skills Tableau dashboard insights
 ### [Project Presentation Preview](https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview) 'insights extracted'
 ### [Interactive Dashboard Link](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday) 'where the insights were extracted from'
-[![LinkedIn jobs skills Tableau Dashboard Preview](linkedintopskills.png "LinkedIn jobs skills Tableau Dashboard Preview")](https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
+
+<div align="center">
+ 
+*A photoshoot of LinkedIn jobs skills Tableau dashboard<br>where my insights were taken from*
+ 
+<a title="Tableau Dashboard Preview where insights were taken from" href="https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday"><img alt="LinkedIn jobs skills Tableau dashboard Preview" width="950px" style="margin-right:20px" src="linkedintopskills.png"></a>
+<br>
+*Click the photo to view the script code*
+</div>
+
 ### [1st Project](https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview), tasks short description
 
 - The project was an intended analysis for extracting insights from a "Tableau dashboard" for one of these  three subjects: 
