@@ -15,8 +15,8 @@
 
 <div align="center">
 
- *A photoshoot of the project presentation first slide*
- <a title="A photo of first slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="800px" style="margin-right:20px" src="images/7th-PROJECT-1st-photo.jpg"></a>
+*A photoshoot of the project presentation first slide*
+<a title="A photo of first slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="800px" style="margin-right:20px" src="images/7th-PROJECT-1st-photo.jpg"></a>
 <br>
 *Click the photo to show the presentation*
 <br><br>
