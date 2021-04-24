@@ -18,7 +18,7 @@ Welcome to Egypt "Future Work is Digital" initiative.
 ## Introduction to Python
 Learn Python programming fundamentals such as data types and structures, variables, loops, and functions.
 
-Project: [Explore US Bikeshare Data](1st%20proj%20-%20%20Explore%20US%20Bikeshare%20Data)
+Project: [Explore US Bikeshare Data](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data)
 
 ## PART 3
 ## Introduction to Data Analysis
@@ -28,14 +28,14 @@ Learn the data analysis process of questioning, wrangling, exploring, analyzing,
 ## Data Wrangling
 Learn the data wrangling process of gathering, assessing, and cleaning data. Learn how to use Python to wrangle data programmatically and prepare it for deeper analysis.
 
-Project: [Wrangle and Analyze Data](2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data)
+Project: [Wrangle and Analyze Data](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data)
 
 ## PART 5
 ## Digital Freelancing - Intro
 
 ## PART 6
 ## Digital Freelancing - Pro
-Project: [Conquer the freelancing marketplaces](3rd%20proj%20-%20%20Conquer%20the%20freelancing%20marketplaces)
+Project: [Conquer the freelancing marketplaces](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces)
 
 ## PART 7
 ## Congratulations and Next Steps
