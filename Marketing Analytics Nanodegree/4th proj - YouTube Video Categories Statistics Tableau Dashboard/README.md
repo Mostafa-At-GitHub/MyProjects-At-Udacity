@@ -3,7 +3,8 @@
 ### [Project Presentation Preview](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview)
 ### [Interactive Dashboard Link](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Tableau-Dashboard) 'my created dashboard with story'
 <div align="center">
- <br>
+  <br>
+ 
  *A photoshoot of my Tableau dashboard for Youtube viewed categories in US regions<br>from the start of Nov 14, 2017, to the end of March 20, 2018*
  
 <a href="https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Tableau-Dashboard">
