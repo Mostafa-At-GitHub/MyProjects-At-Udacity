@@ -11,7 +11,6 @@
  
 <img alt="Sample" width="950px" style="margin-right:20px" src="Navigating,_Reports,_and_Dashboards_Full-Screen.png"></div>
 
-
 ### Review highlights for my submission
 
 *__[1st review](https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Review) highlights:__*
