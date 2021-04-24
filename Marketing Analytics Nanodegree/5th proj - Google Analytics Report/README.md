@@ -29,7 +29,6 @@
 <a title="A photo of fifteenth paper" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="150px" style="margin-right:20px" src="images/5th-PROJECT-15th-photo.jpg"></a>
 <a title="A photo of sixteenth paper" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="150px" style="margin-right:20px" src="images/5th-PROJECT-16th-photo.jpg"></a>
 <a title="A photo of seventeenth paper" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="150px" style="margin-right:20px" src="images/5th-PROJECT-17th-photo.jpg"></a>
-<br>
 <a title="A photo of eighteenth paper" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="150px" style="margin-right:20px" src="images/5th-PROJECT-18th-photo.jpg"></a>
 </div>
 
