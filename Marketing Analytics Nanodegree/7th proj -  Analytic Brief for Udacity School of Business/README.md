@@ -13,6 +13,23 @@
 
   I set out to make a report for each of the five, finally, I completed the work of a [report dedicated to 'Udacity School of Business'](https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview).
 
+<div align="center">
+
+ *A photoshoot of the project presentation first slide*
+<a title="A photo of first slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="800px" style="margin-right:20px" src="images/4th-PROJECT-1st-photo.jpg"></a>
+<br>
+*Click the photo to show the presentation*
+<br><br>
+<a title="A photo of second slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/7th-PROJECT-2nd-photo.jpg"></a>
+<a title="A photo of third slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/7th-PROJECT-3rd-photo.jpg"></a>
+<a title="A photo of fourth slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/7th-PROJECT-4th-photo.jpg"></a>
+<a title="A photo of fifth slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/7th-PROJECT-5th-photo.jpg"></a>
+<a title="A photo of sixth slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/7th-PROJECT-6th-photo.jpg"></a>
+<a title="A photo of seventh slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/7th-PROJECT-7th-photo.jpg"></a>
+<br><br>
+<a title="A photo of eighth slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/7th-PROJECT-8th-photo.jpg"></a>
+</div>
+
 ### Review highlights for my submission
 
 *__[1st review](https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Review) highlights:__*
