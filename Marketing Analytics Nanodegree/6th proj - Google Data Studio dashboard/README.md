@@ -5,11 +5,11 @@
 
  The project was for making a [report](https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Presentation-Preview) and a [dashboard](https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Google-Data-Studio-Dashboard) using Google Data Studio and Google Analytics platforms about the "Google Merchandise store".
 
-<div align="center">
- 
-*A photoshoot of my dashboard on Google Data Studio<br>for Google Merchandise Store*
- 
-<a href="https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Google-Data-Studio-Dashboard"><img title="My dashboard on Google Data Studio for Google Merchandise Store" alt="A photoshoot of my dashboard on Google Data Studio for Google Merchandise Store" width="950px" style="margin-right:20px" src="Navigating,_Reports,_and_Dashboards_Full-Screen.png"></a><br>
+<div align="center">*A photoshoot of my dashboard on Google Data Studio<br>for Google Merchandise Store*
+ <a href="https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Google-Data-Studio-Dashboard">
+ <img title="My dashboard on Google Data Studio for Google Merchandise Store" alt="A photoshoot of my dashboard on Google Data Studio for Google Merchandise Store" width="950px" style="margin-right:20px" src="Navigating,_Reports,_and_Dashboards_Full-Screen.png">
+</a>
+<br>
 *Click the photo to go to the interactive dashboard page*</div>
 
 ### Review highlights for my submission
