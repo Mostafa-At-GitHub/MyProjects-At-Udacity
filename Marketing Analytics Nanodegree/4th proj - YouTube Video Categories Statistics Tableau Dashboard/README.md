@@ -6,7 +6,7 @@
  <br>*A photoshoot of my Tableau dashboard for Youtube viewed categories in US regions<br>from the start of Nov 14, 2017, to the end of March 20, 2018*
  
 <a href="https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Tableau-Dashboard">
- <img title="A photoshoot of my Tableau dashboard for Youtube viewed categories in US regions from the start of Nov 14, 2017, to the end of March 20, 2018" alt="A photoshoot of my Tableau dashboard for Youtube viewed categories in US regions from the start of Nov 14, 2017, to the end of March 20, 2018" style="margin-right:20px" src="YouTube%20Video%20Categories%20Statistics%20Dashboard%20(Faded%20Bars).png">
+ <img title="A photoshoot of my Tableau dashboard for Youtube viewed categories in US regions from the start of Nov 14, 2017, to the end of March 20, 2018" alt="A photoshoot of my Tableau dashboard for Youtube viewed categories in US regions from the start of Nov 14, 2017, to the end of March 20, 2018" style="margin-right:50px" src="YouTube%20Video%20Categories%20Statistics%20Dashboard%20(Faded%20Bars).png">
 </a>
 </div>
 
