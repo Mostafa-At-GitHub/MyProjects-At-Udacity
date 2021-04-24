@@ -7,6 +7,27 @@
 
  Attached my clean work as one [xslx workbook](https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_XSLX-Workbook) with [my evaluating presentation](https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview) that includes the vizs.
 
+<div align="center">
+
+*A photoshoot of the project presentation first slide*
+<a title="A photo of first slide" href="https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="800px" style="margin-right:20px" src="images/8th-PROJECT-1st-photo.jpg"></a>
+<br>
+*Click the photo to show the presentation*
+<br><br>
+<a title="A photo of second slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-2nd-photo.jpg"></a>
+<a title="A photo of third slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-3rd-photo.jpg"></a>
+<a title="A photo of fourth slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-4th-photo.jpg"></a>
+<a title="A photo of fifth slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-5th-photo.jpg"></a>
+<a title="A photo of sixth slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-6th-photo.jpg"></a>
+<a title="A photo of seventh slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-7th-photo.jpg"></a>
+<a title="A photo of eighth slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-8th-photo.jpg"></a>
+<a title="A photo of ninth slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-9th-photo.jpg"></a>
+<a title="A photo of tenth slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-10th-photo.jpg"></a>
+<a title="A photo of eleventh slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-11th-photo.jpg"></a>
+<br><br>
+<a title="A photo of twelfth slide" href="https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/8th-PROJECT-12th-photo.jpg"></a>
+</div>
+
 ### Reviews highlights for my submissions
 
 *__[1st review](https://cutt.ly/8th-Final-Project---evaluating-the-performance-of-the-Black-Friday-sales-for-2017-and-2018_Review_1) highlights:__*
