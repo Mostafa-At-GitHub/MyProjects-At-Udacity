@@ -13,8 +13,8 @@
 <br>
 *Click the photo to show the report presentation*
 <br><br>
-<a title="A photo of second paper" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="450px" style="margin-right:20px" src="images/5thPROJECT-1st-photo.jpg"></a>
-<a title="A photo of third paper" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="450px" style="margin-right:20px" src="images/5th-PROJECT-2nd-photo.jpg"></a>
+<a title="A photo of second paper" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="450px" style="margin-right:20px" src="images/5thPROJECT-2nd-photo.jpg"></a>
+<a title="A photo of third paper" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="450px" style="margin-right:20px" src="images/5th-PROJECT-3rd-photo.jpg"></a>
 <br>
 
 </div>
