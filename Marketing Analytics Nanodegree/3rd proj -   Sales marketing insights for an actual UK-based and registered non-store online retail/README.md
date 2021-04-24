@@ -1,14 +1,14 @@
 #### Project name: "Storytelling with Data"
 #### Main focused: Sales marketing insights for an actual UK-based and registered non-store online retail
-### [Project Presentation Preview](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20presentation.pdf) 'insights extracted'
-### [3rd Project](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20presentation.pdf), tasks short description
+### [Project Presentation Preview](https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Presentation-Preview) 'insights extracted'
+### [3rd Project](https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Presentation-Preview), tasks short description
 
 - The project was an intended analysis for extracting marketing insights about sales for an Actual UK-based and registered non-store online retail, from a transnational data set published by The UCI Machine Learning Repository.
-- Attached my clean work as one [xslx workbook](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20workbook.xlsx) with my [story insights presentation](3rd%20PROJECT%20Storytelling%20with%20Data%20-%20Visualed%20Story%20presentation.pdf).
+- Attached my clean work as one [xslx workbook](https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_XSLX-workbook) with my [story insights presentation](https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Presentation-Preview).
 
 ### Review highlights for my submission
 
-*__[1st review](Udacity%20Detailed%20Review/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
+*__[1st review](https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Review) highlights:__*
 
 - Congratulations on finishing the project 🎉
 - This was a brilliant submission. The work was exceptional! You did a great job and should be proud of yourself. After reviewing this
