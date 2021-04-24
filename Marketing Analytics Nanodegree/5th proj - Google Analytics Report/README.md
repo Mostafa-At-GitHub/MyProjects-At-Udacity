@@ -4,6 +4,20 @@
 ### [5th Project](https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview), tasks short description
 
  The project was for making a [report](https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview) using the Google Analytics platform about the "Google Merchandise store".
+ 
+<div align="center">
+ 
+*A photoshoot of the project presentation cover*
+
+ <a title="A photo of cover" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation cover" width="850px" style="margin-right:20px" src="images/5th-PROJECT-1st-photo.jpg"></a>
+<br>
+*Click the photo to show the report presentation*
+<br><br>
+<a title="A photo of second paper" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="450px" style="margin-right:20px" src="images/5thPROJECT-1st-photo.jpg"></a>
+<a title="A photo of third paper" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="450px" style="margin-right:20px" src="images/5th-PROJECT-2nd-photo.jpg"></a>
+<br>
+
+</div>
 
 ### Review highlights for my submission
 
