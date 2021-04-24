@@ -7,7 +7,7 @@
  
 *A photoshoot of LinkedIn jobs skills Tableau dashboard<br>where my insights were taken from*
  <a title="Tableau Dashboard Preview where my insights were taken from" href="https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday"><img alt="LinkedIn jobs skills Tableau dashboard Preview" width="850px" style="margin-right:20px" src="linkedintopskills.png"></a>
-<br>
+<br><br><br>
 *Click the photo to show the interactive dashboard*
 <br>
 *A photoshoot of the project presentation*
