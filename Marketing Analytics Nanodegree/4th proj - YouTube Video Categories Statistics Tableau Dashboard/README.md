@@ -1,26 +1,26 @@
 #### Project name: "Build Data Dashboards"
 #### Main focused: YouTube Video Categories Statistics Tableau sheets, dashboard and story
-### [Project Presentation Preview](4TH%20PROJECT%20Build%20Data%20Dashboards%20-%20YouTube%20Video%20Categories%20Statistics%20modded.pdf)
-### [Interactive Dashboard Link](https://public.tableau.com/profile/m3836#!/vizhome/YoutubeDataUS_16081098874500/YouTubeVideoCategoriesViewsStory) 'my created dashboard with story'
+### [Project Presentation Preview](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview)
+### [Interactive Dashboard Link](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Tableau-Dashboard) 'my created dashboard with story'
 
-[![Youtube Categories US Data Dashboard Preview](YouTube%20Video%20Categories%20Statistics%20Dashboard%20(Faded%20Bars).png "Youtube Categories US Data Dashboard Preview")](https://public.tableau.com/profile/m3836#!/vizhome/YoutubeDataUS_16081098874500/YouTubeVideoCategoriesViewsStory)
+[![Youtube Categories US Data Dashboard Preview](YouTube%20Video%20Categories%20Statistics%20Dashboard%20(Faded%20Bars).png "Youtube Categories US Data Dashboard Preview")](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Tableau-Dashboard)
 
-### [4th Project](4TH%20PROJECT%20Build%20Data%20Dashboards%20-%20YouTube%20Video%20Categories%20Statistics%20modded.pdf), tasks short description
+### [4th Project](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview), tasks short description
 - The project was for making a Tableau dashboard with storytelling from 3 choices as follows:
 
   - Flight Delays and Cancellations
   - US Census Demographic Data
   - Youtube Data from the US
 
-  I set out to make all three, finally, I completed the work for a story from [three CSV files data sets](youtubedata%20-%20XLSX%20files) collected using YouTube API, backed by [my dashboard and sheets for youtube vedio categories viewed in the American States from the start of Nov 14, 2017, to the end of March 20, 2018](https://public.tableau.com/profile/m3836#!/vizhome/YoutubeDataUS_16081098874500/YouTubeVideoCategoriesViewsStory).
+  I set out to make all three, finally, I completed the work for a story from [three CSV files data sets](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_XSLX-Workbooks) collected using YouTube API, backed by [my dashboard and sheets for youtube vedio categories viewed in the American States from the start of Nov 14, 2017, to the end of March 20, 2018](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Tableau-Dashboard).
 
-- Attached [my presentation work](4TH%20PROJECT%20Build%20Data%20Dashboards%20-%20YouTube%20Video%20Categories%20Statistics%20modded.pdf), and the data sets are in the folder named '[youtubedata - XLSX files](youtubedata%20-%20XLSX%20files)'.
+- Attached [my presentation work](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview), and the data sets are in the folder named '[youtubedata - XLSX files](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_XSLX-Workbooks)'.
 
-__Dashboard link: [Youtube Data US](https://public.tableau.com/profile/m3836#!/vizhome/YoutubeDataUS_16081098874500/YouTubeVideoCategoriesViewsStory)__
+__Dashboard link: [Youtube Data US](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Tableau-Dashboard)__
 
 ### Review highlights for my submission
 
-*__[1st review](Udacity%20Detailed%20Review/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
+*__[1st review](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Review) highlights:__*
 <br><div>
 - Kudos,
 Well done coming up with your insights, they are simple yet very informative. You did follow a lot of recommended guidelines and
