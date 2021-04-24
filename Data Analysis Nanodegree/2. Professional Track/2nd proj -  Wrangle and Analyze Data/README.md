@@ -1,28 +1,28 @@
-#### [Project Code Notebook Preview](wrangle_act.ipynb)        ([Click here to view on "Jupyter Notebook Viewer"](https://nbviewer.jupyter.org/github/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/master/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data/wrangle_act.ipynb))
-#### Project Wrangle Report Preview: [**wrangle_report.pdf**](wrangle_report.pdf) or [**wrangle_report.ipynb**](wrangle_report.ipynb)        ([Click here to view on "Jupyter Notebook Viewer"](https://nbviewer.jupyter.org/github/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/master/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data/wrangle_report.ipynb))
-#### Project Act Report Preview: [**act_report.pdf**](act_report.pdf) or [**act_report.ipynb**](act_report.ipynb)        ([Click here to view on "Jupyter Notebook Viewer"](https://nbviewer.jupyter.org/github/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/master/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data/act_report.ipynb))
+#### [Project Code Notebook Preview](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Code-Preview)        ([Click here to view on "Jupyter Notebook Viewer"](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Code-Preview_nbviewer))
+#### Project Wrangle Report Preview: [**wrangle_report.pdf**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview) or [**wrangle_report.ipynb**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview_ipynb)        ([Click here to view on "Jupyter Notebook Viewer"](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview_ipynb_nbviewer))
+#### Project Act Report Preview: [**act_report.pdf**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview) or [**act_report.ipynb**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview_ipynb)        ([Click here to view on "Jupyter Notebook Viewer"](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview_ipynb_nbviewer))
 
 
 
 *Viz of first insight shows different tweets sources*
 ![Viz](Viz.png)
 
-### [2nd Project](wrangle_act.ipynb), tasks short description
+### [2nd Project](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Code-Preview), tasks short description
 
 - The project was intended for wrangling and analyzing data after gathering from different three resources; offline file (`twitter-archive-enhanced.csv`), downloaded file (`image-predictions.tsv`) and Twitter API(`to have recieved tweets data of a twitter account for rating dogs stored in tweet_json.txt`), so as to extract insights (with one viz at least) from these data after assessing and cleaning tidiness and quality issues of them all.
 - _**After all we should have**_:
-    - [**wrangle_act.ipynb**](wrangle_act.ipynb)**:** **code** for gathering, assessing, cleaning, analyzing, and visualizing data ([view on "Jupyter Notebook Viewer"](https://nbviewer.jupyter.org/github/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/master/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data/wrangle_act.ipynb))
-    - [**wrangle_report.pdf**](wrangle_report.pdf) or [**wrangle_report.ipynb**](wrangle_report.ipynb)**:** **documentation for data wrangling steps**: gather, assess, and clean ([view on "Jupyter Notebook Viewer"](https://nbviewer.jupyter.org/github/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/master/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data/wrangle_report.ipynb))
-    - [**act_report.pdf**](act_report.pdf) or [**act_report.ipynb**](act_report.ipynb): **documentation of analysis and insights** into final data ([view on "Jupyter Notebook Viewer"](https://nbviewer.jupyter.org/github/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/master/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data/act_report.ipynb))
+    - [**wrangle_act.ipynb**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Code-Preview)**:** **code** for gathering, assessing, cleaning, analyzing, and visualizing data ([view on "Jupyter Notebook Viewer"](https://nbviewer.jupyter.org/github/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/master/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/2nd%20proj%20-%20%20Wrangle%20and%20Analyze%20Data/wrangle_act.ipynb))
+    - [**wrangle_report.pdf**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview) or [**wrangle_report.ipynb**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview_ipynb)**:** **documentation for data wrangling steps**: gather, assess, and clean ([view on "Jupyter Notebook Viewer"](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview_ipynb_nbviewer))
+    - [**act_report.pdf**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview) or [**act_report.ipynb**](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview_ipynb): **documentation of analysis and insights** into final data ([view on "Jupyter Notebook Viewer"](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview_ipynb_nbviewer))
 - _**with the datasets**_:
     - [twitter_archive_enhanced.csv](datasets/twitter-archive-enhanced.csv): file as given
     - [image_predictions.tsv](datasets/image-predictions.tsv): file downloaded programmatically
     - [tweet_json.txt](datasets/tweet-json.txt): file constructed via API
-    - [twitter_archive_master.csv](twitter_archive_master.csv): combined and cleaned data
+    - [twitter_archive_master.csv](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Master-Cleaned-Dataset-Preview): combined and cleaned data
 
 ### Reviews highlights for my submissions
 
-*__[1st review](Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%207%20specifications%20require%20changes.pdf) highlights:__*
+*__[1st review](https://cutt.ly/2nd-proj---Wrangle-and-Analyze_Review_1) highlights:__*
 
 - Good start here! It is great to see that you have followed the project structure correctly in your wrangle act notebook. You have also cleaned
 all of the important issues in the datasets and created nice reports describing your process and results.
@@ -36,7 +36,7 @@ mark.
 - Well done with the visualizations and insights, they look great!
 
 
-*__[2nd review](Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
+*__[2nd review](https://cutt.ly/2nd-proj---Wrangle-and-Analyze_Review_2) highlights:__*
 
 - You have put dedicated effort into this project and it paid off. Congratulations on meeting all the specifications of the project! *__You have demonstrated a very good python coding skills and understanding__* of __data wrangling__ process.
 - You have done an excellent job wrangling the given data and producing some interesting insights like __iphone is the most frequent platform for tweeting on this account__
