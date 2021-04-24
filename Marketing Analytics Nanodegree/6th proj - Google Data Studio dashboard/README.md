@@ -7,7 +7,7 @@
 
 ### Review highlights for my submission
 
-*__[1st review](Udacity%20Detailed%20Review/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
+*__[1st review](https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Review) highlights:__*
 
 - Congratulations, your project is now good to go.
 - Keep up the good work.
