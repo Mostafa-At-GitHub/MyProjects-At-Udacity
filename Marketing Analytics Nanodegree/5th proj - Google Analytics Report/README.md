@@ -9,7 +9,7 @@
  
 *A photoshoot of the project presentation cover*
 
- <a title="A photo of cover" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation cover" width="475px" style="margin-right:20px" src="images/5th-PROJECT-1st-photo.jpg"></a>
+ <a title="A photo of cover" href="https://cutt.ly/5th-Project-Use-Advanced-Displays-Segments-Views_Presentation-Preview"><img alt="A photoshoot of the project presentation cover" width="525px" style="margin-right:20px" src="images/5th-PROJECT-1st-photo.jpg"></a>
 <br>
 *Click the photo to show the report presentation*
 <br><br>
