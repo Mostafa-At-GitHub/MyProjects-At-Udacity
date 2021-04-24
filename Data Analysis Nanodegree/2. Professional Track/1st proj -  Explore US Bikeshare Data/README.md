@@ -1,8 +1,8 @@
-### [Project Script Code Preview](my%20local%20solution.py)
+### [Project Script Code Preview](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data_Code-Preview)
 
-### [1st Project](my%20local%20solution.py), tasks short description
+### [1st Project](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data_Code-Preview), tasks short description
 
-- The project was for writing a Python script to enable the user to do analysis on Bikeshare system data for cities; Chicago, New York City, and Washington, from their respective [three data sets](bikeshare-datasets), and to answer questions about popular times of travel, popular stations and trip, trip duration and user info.
+- The project was for writing a Python script to enable the user to do analysis on Bikeshare system data for cities; Chicago, New York City, and Washington, from their respective [three data sets](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data_XSLX-Workbooks), and to answer questions about popular times of travel, popular stations and trip, trip duration and user info.
 
 <div align="center">
 
@@ -13,10 +13,12 @@
  
 *Running the python script*
  
-<img alt="Sample" width="950px" style="margin-right:20px" src="bikeshare-system.PNG"></div>
+<a title="My python script output" href="https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data_Code-Preview"><img alt="Script Output Preview" width="950px" style="margin-right:20px" src="bikeshare-system.PNG"></a>
+*Click the photo to view the script code*
+</div>
 
 ### Reviews highlights for my submissions
-*__[1st review](Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%201%20specification%20requires%20changes.pdf) highlights:__*
+*__[1st review](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data_Review_1) highlights:__*
 
 - Great work on the project till now. You’ve worked hard on the project and it clearly shows. 
 - Everything runs free of errors. Nicely done! 🌟
@@ -32,7 +34,7 @@ of data being stored in that variable. 🌟
 inputs. 🌟
 - Great job calculating all the statistics correctly.
 
-*__[2nd review](Udacity%20Detailed%20Reviews/2nd%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
+*__[2nd review](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data_Review_2) highlights:__*
 
 - Thank you so much for paying such attention to detail when fixing the minor comments made during previous review. The project looks
 amazing now :)
