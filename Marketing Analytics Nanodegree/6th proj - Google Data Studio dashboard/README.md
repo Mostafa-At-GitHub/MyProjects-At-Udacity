@@ -5,7 +5,11 @@
 
  The project was for making a [report](https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Presentation-Preview) and a [dashboard](https://cutt.ly/6th-Project-Navigating-Reports-and-Dashboards_Google-Data-Studio-Dashboard) using Google Data Studio and Google Analytics platforms about the "Google Merchandise store".
 
+<head>
+ 
 <link rel="import" href="images/images_code.html">
+
+</head>
 
 ### Review highlights for my submission
 
