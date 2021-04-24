@@ -8,7 +8,7 @@
 
 <div align="center">
  
-*A photoshoot of the project presentation*
+*A photoshoot of the project presentation first slide*
 <a title="A photo of first paper" href="https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="800px" style="margin-right:20px" src="images/3rd-PROJECT-1st-photo.jpg"></a>
 <br>
 *Click the photo to show the presentation*
