@@ -9,6 +9,11 @@
  <a title="Tableau Dashboard Preview where my insights were taken from" href="https://public.tableau.com/profile/matt.chambers#!/vizhome/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday"><img alt="LinkedIn jobs skills Tableau dashboard Preview" width="850px" style="margin-right:20px" src="linkedintopskills.png"></a>
 <br>
 *Click the photo to show the interactive dashboard*
+
+*A photoshoot of the project presentation<br>where my insights were taken from*
+ <a title="A photo of first paper" href="https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview"><img alt="1ST-PROJECT-1st-photo.jpg" width="850px" style="margin-right:20px" src="1ST-PROJECT-1st-photo.jpg"></a>
+<br>
+*Click the photo to show the presentation*
 </div>
 
 ### [1st Project](https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview), tasks short description
