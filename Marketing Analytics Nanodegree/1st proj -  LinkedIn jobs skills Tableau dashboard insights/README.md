@@ -11,7 +11,7 @@
 *Click the photo to show the interactive dashboard*
 
 *A photoshoot of the project presentation<br>where my insights were taken from*
- <a title="A photo of first paper" href="https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview"><img alt="1ST-PROJECT-1st-photo.jpg" width="850px" style="margin-right:20px" src="1ST-PROJECT-1st-photo.jpg"></a>
+ <a title="A photo of first paper" href="https://cutt.ly/1st-Project-Working-with-Data---LinkedIn-Top-Skills-Insights_Presentation-Preview"><img alt="A photoshoot of the project presentation.png" width="850px" style="margin-right:20px" src="1ST-PROJECT-1st-photo.png"></a>
 <br>
 *Click the photo to show the presentation*
 </div>
