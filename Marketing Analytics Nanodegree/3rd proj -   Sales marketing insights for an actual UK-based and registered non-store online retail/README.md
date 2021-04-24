@@ -18,7 +18,7 @@
 <a title="A photo of fourth slide" href="https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/3rd-PROJECT-4th-photo.jpg"></a>
 <a title="A photo of fifth slide" href="https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/3rd-PROJECT-5th-photo.jpg"></a>
 <br><br>
-<a title="A photo of sixth slide" href="https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="300px" style="margin-right:20px" src="images/3rd-PROJECT-6th-photo.jpg"></a>
+<a title="A photo of sixth slide" href="https://cutt.ly/3rd-Project-Storytelling-with-Data---Visualed-Story_Presentation-Preview"><img alt="A photoshoot of the project presentation" width="430px" style="margin-right:20px" src="images/3rd-PROJECT-6th-photo.jpg"></a>
 </div>
 
 ### Review highlights for my submission
