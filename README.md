@@ -20,6 +20,7 @@
 <div>
     
 ### <details><summary><a href="https://cutt.ly/Data-Analysis-Nanodegree"><b>Data Analysis Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary>
+
 #### - [Challenger Track](https://cutt.ly/Data-Challenger-Track "My XLSX solved files and certification of track exam")
 #### - [Professional Track](https://cutt.ly/Data-Professional-Track "Professional Track Projects")<br>
   * ##### [1st project - Explore US Bikeshare Data](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data "A Python script to enable the user to do analysis on one of three data sets") *A Python script to enable the user to do analysis on one of three data sets*
@@ -28,7 +29,6 @@
     *"You have demonstrated a very good python coding skills and understanding of data wrangling process. You also did a fantastic job of incorporating the previous reviewer suggestions.......[Read full reviews](https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data-reviews-highlights)"*
   * ##### [3rd project - Conquer the freelancing marketplaces](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces)<br>
 #### - [Advanced Track](https://cutt.ly/Data-Advanced-Track "Advanced Track Projects")
-
 </details>
 
 </div>
