@@ -19,9 +19,7 @@
 
 <div>
     
-### <details><summary><a href="https://cutt.ly/Data-Analysis-Nanodegree"><b>Data Analysis Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary><br>
-    <p>
-
+### <details><summary><a href="https://cutt.ly/Data-Analysis-Nanodegree"><b>Data Analysis Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary>
 #### - [Challenger Track](https://cutt.ly/Data-Challenger-Track "My XLSX solved files and certification of track exam")
 #### - [Professional Track](https://cutt.ly/Data-Professional-Track "Professional Track Projects")<br>
   * ##### [1st project - Explore US Bikeshare Data](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data "A Python script to enable the user to do analysis on one of three data sets") *A Python script to enable the user to do analysis on one of three data sets*
@@ -31,8 +29,10 @@
   * ##### [3rd project - Conquer the freelancing marketplaces](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces)<br>
 #### - [Advanced Track](https://cutt.ly/Data-Advanced-Track "Advanced Track Projects")
 
-   </p>
-</details></div>
+</details>
+
+</div>
+
 <br>
 <details><summary><a href="https://cutt.ly/Marketing-Analytics-Nanodegree"><b>Marketing Analytics Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary>
     <p>
