@@ -30,7 +30,6 @@
 </details>
 
 <details><summary><a href="https://cutt.ly/Marketing-Analytics-Nanodegree"><b>Marketing Analytics Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary>
-    <p>
 
 #### [1st project - Working with Data](https://cutt.ly/LinkedIn-jobs-skills-Tableau-dashboard-insights "LinkedIn jobs skills Tableau dashboard insights") *LinkedIn jobs skills Tableau dashboard insights*
    *"This is an excellent submission! You presented three very interesting insights and backed them up with some robust analysis. Great job adding a descriptive heading for each insight. You drew some good, air-tight conclusions from your analysis. You also presented ample data, facts and other information from the dashboard to back your findings. Terrific! :) Your screenshots appropriately illustrate the written part of your response. Excellent! Insights where very well presented and displayed properly. You really did a great job. You have precisely described each of insight reported. Usually it comes to answer to good questions. Your job made that happen. Congratulations for the great job done .......[Read full reviews](https://cutt.ly/1st-proj-LinkedIn-jobs-skills-Tableau-dashboard-insights-reviews-highlights)"*
@@ -50,7 +49,5 @@
    *"Congratulations on passing this submission . This is an impressive submission with detailed notes, clear visuals and neat presentation. Good job. The bar chart and table are great for representing the sales and ad spend data for 2017 and 2018. They are ideal for representing diàerent groups of data and changes over time. Good job presenting the ROI on paid channels and the CPA per age group. Supporting texts have been included to give context to the analyses and to answer the marketing questions.
 All Sales information has been presented in the appropriate visuals. Short notes have also been included to report on the total revenue and average sales order for each year.
 Good job choosing the right metrics to determine the popularity of each product category; the number of orders. ......[Read full reviews](https://cutt.ly/8th-proj---Create-a-Proposal-for-the-Next-Quarter-reviews-highlights)"*
-
-   </p>
 </details>
 
