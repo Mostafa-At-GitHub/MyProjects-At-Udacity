@@ -20,7 +20,6 @@
 <div>
     
 ### <details><summary><a href="https://cutt.ly/Data-Analysis-Nanodegree"><b>Data Analysis Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary>
-
 #### - [Challenger Track](https://cutt.ly/Data-Challenger-Track "My XLSX solved files and certification of track exam")
 #### - [Professional Track](https://cutt.ly/Data-Professional-Track "Professional Track Projects")<br>
   * ##### [1st project - Explore US Bikeshare Data](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data "A Python script to enable the user to do analysis on one of three data sets") *A Python script to enable the user to do analysis on one of three data sets*
