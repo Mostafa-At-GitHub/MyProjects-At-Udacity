@@ -16,7 +16,7 @@
 </div>
 <br><h6 align="center">Expand the desired arrow then use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"> to navigate easily through projects</h6>
 <br>
-<details><summary><h2><a href="https://cutt.ly/Data-Analysis-Nanodegree"><b>Data Analysis Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</h2><br></summary><br>
+<details><summary><a href="https://cutt.ly/Data-Analysis-Nanodegree"><b>Data Analysis Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)<br></summary>
     <p>
 
 ## [Data Analysis Nanodegree](https://cutt.ly/Data-Analysis-Nanodegree)
