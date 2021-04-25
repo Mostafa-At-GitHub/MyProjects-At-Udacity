@@ -14,6 +14,10 @@
 *Running the python script*
  
 <a title="My python script output" href="https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data_Code-Preview"><img alt="Script Output Preview" width="950px" style="margin-right:20px" src="bikeshare-system.PNG"></a>
+<br><br>
+*A photoshoot of whole my script output*
+ 
+<a title="My python script full output" href="https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data_Code-Preview"><img alt="Full Script Output Preview" width="950px" style="margin-right:20px" src="MyFullScriptOutput_WhiteLandscape.PNG"></a>
 <br>
 *Click the photo to view the script code*
 </div>
