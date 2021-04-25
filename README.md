@@ -17,7 +17,8 @@
 <br><h6 align="center">Expand the desired arrow then use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"> to navigate easily through projects</h6></div>
 <br>
  
-<details><summary><a href="https://cutt.ly/Data-Analysis-Nanodegree"><b>Data Analysis Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary></h2>
+<details><summary><a href="https://cutt.ly/Data-Analysis-Nanodegree"><b>Data Analysis Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary>
+
 #### - [Challenger Track](https://cutt.ly/Data-Challenger-Track "My XLSX solved files and certification of track exam")
 #### - [Professional Track](https://cutt.ly/Data-Professional-Track "Professional Track Projects")<br>
   * ##### [1st project - Explore US Bikeshare Data](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data "A Python script to enable the user to do analysis on one of three data sets") *A Python script to enable the user to do analysis on one of three data sets*
@@ -28,9 +29,6 @@
 #### - [Advanced Track](https://cutt.ly/Data-Advanced-Track "Advanced Track Projects")
 </details>
 
-</div>
-
-<br>
 <details><summary><a href="https://cutt.ly/Marketing-Analytics-Nanodegree"><b>Marketing Analytics Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary>
     <p>
 
