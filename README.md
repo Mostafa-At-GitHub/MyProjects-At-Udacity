@@ -14,9 +14,11 @@
         <img alt="Mostafa | Slidshare" width="40px" style="margin-right:20px" src="https://public.slidesharecdn.com/v2/favicon.ico">
     </a>
 </div>
-<br><h6 align="center">Expand the desired arrow then use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"> to navigate easily through projects</h6>
+<br><h6 align="center">Expand the desired arrow then use the upper left button with the bullet lines <img alt="bullet lines button image" width="15px" style="margin-right:10px" src="https://cdn.icon-icons.com/icons2/1659/PNG/512/3844437-hamburger-list-menu-more-navigation_110311.png"> to navigate easily through projects</h6></div>
 <br>
 
+<div>
+    
 ### <details><summary><a href="https://cutt.ly/Data-Analysis-Nanodegree"><b>Data Analysis Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary><br>
     <p>
 
@@ -30,7 +32,7 @@
 #### - [Advanced Track](https://cutt.ly/Data-Advanced-Track "Advanced Track Projects")
 
    </p>
-</details>
+</details></div>
 <br>
 <details><summary><a href="https://cutt.ly/Marketing-Analytics-Nanodegree"><b>Marketing Analytics Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary>
     <p>
