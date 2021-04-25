@@ -13,6 +13,7 @@
 *Act report photoshoot*
 
 <a title="A photo of act report" href="https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview"><img alt="A photoshoot of the act report" width="450px" style="margin-right:20px" src="images/act_report.jpg"></a>
+
 *Click the photo to show the report*<br>
 <br>
 *Wrangle report photoshoots*
