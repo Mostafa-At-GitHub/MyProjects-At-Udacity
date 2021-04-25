@@ -11,7 +11,7 @@
 <img alt="Sample" width="800px" style="margin-right:20px" src="bikeshare-datasets/nyc-data.png"></div>
 <div align="center">
  
-*Running the python script*
+*Running the python script (Click the photoshoot to view the script code)*
  
 <a title="My python script output" href="https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data_Code-Preview"><img alt="Script Output Preview" width="950px" style="margin-right:20px" src="bikeshare-system.PNG"></a>
 <br><br>
