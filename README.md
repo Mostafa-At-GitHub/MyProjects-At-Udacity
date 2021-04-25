@@ -19,7 +19,6 @@
 <details><summary><a href="https://cutt.ly/Data-Analysis-Nanodegree"><b>Data Analysis Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary>
     <p>
 
-## [Data Analysis Nanodegree](https://cutt.ly/Data-Analysis-Nanodegree)
 ### - [Challenger Track](https://cutt.ly/Data-Challenger-Track "My XLSX solved files and certification of track exam")
 ### - [Professional Track](https://cutt.ly/Data-Professional-Track "Professional Track Projects")<br>
   * #### [1st project - Explore US Bikeshare Data](https://cutt.ly/1st-proj---Explore-US-Bikeshare-Data "A Python script to enable the user to do analysis on one of three data sets") *A Python script to enable the user to do analysis on one of three data sets*
@@ -32,10 +31,9 @@
    </p>
 </details>
 <br>
-<details><summary><b>Marketing Analytics Nanodegree</b> (Click to expand or to collapse and to see projects and reviews links)</summary>
+<details><summary><a href="https://cutt.ly/Marketing-Analytics-Nanodegree"><b>Marketing Analytics Nanodegree</b></a> (Click to expand or to collapse and to see projects and reviews links)</summary>
     <p>
 
-## [Marketing Analytics Nanodegree](https://cutt.ly/Marketing-Analytics-Nanodegree)
 #### [1st project - Working with Data](https://cutt.ly/LinkedIn-jobs-skills-Tableau-dashboard-insights "LinkedIn jobs skills Tableau dashboard insights") *LinkedIn jobs skills Tableau dashboard insights*
    *"This is an excellent submission! You presented three very interesting insights and backed them up with some robust analysis. Great job adding a descriptive heading for each insight. You drew some good, air-tight conclusions from your analysis. You also presented ample data, facts and other information from the dashboard to back your findings. Terrific! :) Your screenshots appropriately illustrate the written part of your response. Excellent! Insights where very well presented and displayed properly. You really did a great job. You have precisely described each of insight reported. Usually it comes to answer to good questions. Your job made that happen. Congratulations for the great job done .......[Read full reviews](https://cutt.ly/1st-proj-LinkedIn-jobs-skills-Tableau-dashboard-insights-reviews-highlights)"*
 #### [2nd project - Analyze Survey Data](https://cutt.ly/Udacity-survey-insights "Udacity survey insights") *Udacity survey insights*
