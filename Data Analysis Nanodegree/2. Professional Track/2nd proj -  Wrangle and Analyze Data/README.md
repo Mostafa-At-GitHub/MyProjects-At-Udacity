@@ -11,13 +11,10 @@
 *Click the viz to view the whole insights report*<br>
 <br>
 *Act report photoshoot*
-
 <a title="A photo of act report" href="https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview"><img alt="A photoshoot of the act report" width="450px" style="margin-right:20px" src="images/act_report.jpg"></a>
-<br>
 *Click the photo to show the report*<br>
 <br>
 *Wrangle report photoshoots*
-
 <a title="A photo of wrangle report first page" href="https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview"><img alt="A photoshoot of the wrangle report" width="350px" style="margin-right:20px" src="images/wrangle_report_1.jpg"></a>
 <a title="A photo of wrangle report second page" href="https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview"><img alt="A photoshoot of the wrangle report" width="350px" style="margin-right:20px" src="images/wrangle_report_2.jpg"></a>
 <a title="A photo of wrangle report third page" href="https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Wrangle-Report-Preview"><img alt="A photoshoot of the wrangle report" width="350px" style="margin-right:20px" src="images/wrangle_report_3.jpg"></a>
