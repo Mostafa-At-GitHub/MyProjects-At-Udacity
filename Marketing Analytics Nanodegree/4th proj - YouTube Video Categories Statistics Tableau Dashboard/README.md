@@ -28,9 +28,9 @@
 ### [4th Project](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics-modded_Presentation-Preview), tasks short description
 - The project was for making a Tableau dashboard with storytelling from 3 choices as follows:
 
-  - Flight Delays and Cancellations • [data sets columns meta data were grapped from this kaggle link](https://www.kaggle.com/usdot/flight-delays/data)
-  - US Census Demographic Data • [data sets columns meta data were grapped from this kaggle link](https://www.kaggle.com/muonneutrino/us-census-demographic-data/data)
-  - Youtube Data from the US • [original data set kaggle link](https://www.kaggle.com/datasnaek/youtube-new/data), there is no column metadata for this file, the location data treated as the upload location for each video.
+  - Flight Delays and Cancellations • [data sets columns meta data were grapped from this kaggle link](https://www.kaggle.com/usdot/flight-delays/data) • [my cleaned work from here](my%20other%20cleaned%20data%20sets#readme)
+  - US Census Demographic Data • [data sets columns meta data were grapped from this kaggle link](https://www.kaggle.com/muonneutrino/us-census-demographic-data/data) • [my cleaned work from here](my%20other%20cleaned%20data%20sets#readme)
+  - Youtube Data from the US • [original data set kaggle link](https://www.kaggle.com/datasnaek/youtube-new/data), there is no column metadata for this file, the location data treated as the upload location for each video • [my cleaned work from here](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_XSLX-Workbooks)
 
   I set out to make all three, finally, I completed the work for a story from [three CSV files data sets](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_XSLX-Workbooks) of **310k+ rows**, collected using YouTube API, backed by [my dashboard and sheets for youtube vedio categories viewed in the American States from the start of Nov 14, 2017, to the end of March 20, 2018](https://cutt.ly/4th-Project-Build-Data-Dashboards---YouTube-Video-Categories-Statistics_Tableau-Dashboard).
 
