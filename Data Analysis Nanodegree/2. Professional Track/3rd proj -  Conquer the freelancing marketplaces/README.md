@@ -6,20 +6,16 @@
 
 <div align="center">
 
-*Profiles document*
-
-<a title="A photo of profiles document" href="https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview"><img alt="Profiles document" width="325px" style="margin-right:20px" src="images/Profiles.jpg"></a>
-
-*Click the photo to show the file*<br>
+<br>*Profiles document*<br>
+<a title="A photo of profiles document" href="https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Profiles"><img alt="Profiles document" width="325px" style="margin-right:20px" src="images/Profiles.jpg"></a>
+<br>*Click the photo to show the file*<br>
 <br>
-*Proposasl document*
-
+*Proposasl document*<br>
 <a title="A photo of first proposal" href="https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Proposals"><img alt="First propsal" width="325px" style="margin-right:20px" src="images/Proposals_1.jpg"></a>
 <a title="A photo of second propsal" href="https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Proposals"><img alt="Second propsal" width="325x" style="margin-right:20px" src="images/Proposals_2.jpg"></a>
 <br>
 *Click the photo to show the file*
 </div>
-
 
 ### Reviews highlights for my submissions
 
