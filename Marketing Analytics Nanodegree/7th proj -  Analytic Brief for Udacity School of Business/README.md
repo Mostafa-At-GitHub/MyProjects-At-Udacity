@@ -5,11 +5,11 @@
 
  The project was intended for crafting an Analytic Brief for one of the companies below:
 
-     - Tesla Branch New York, New York Model 3
-     - Dropbox Business
-     - Nike Hyperadapt (Self Lacing Shoes)
-     - Lime Scooters (In your city)
-     - Udacity School of Business
+   * Tesla Branch New York, New York Model 3
+   * Dropbox Business
+   * Nike Hyperadapt (Self Lacing Shoes)
+   * Lime Scooters (In your city)
+   * Udacity School of Business
 
   I set out to make a report for each of the five, finally, I completed the work of a [report dedicated to 'Udacity School of Business'](https://cutt.ly/7th-Project-Crafting-an-Analytic-Brief---Udacity-School-of-Business_Presentation-Preview).
 
