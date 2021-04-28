@@ -9,7 +9,7 @@
 
 *__[1st review](https://github.com/Mostafa-At-GitHub/MyProjects-At-Udacity/blob/master/Data%20Analysis%20Nanodegree/2.%20Professional%20Track/3rd%20proj%20-%20%20Conquer%20the%20freelancing%20marketplaces/Udacity%20Detailed%20Reviews/1st%20Udacity%20Review%20-%20Meets%20Specifications.pdf) highlights:__*
 
-- You have done a great job. <img src="https://review.udacity.com/assets/images/emojis/clap.png"><img src="https://review.udacity.com/assets/images/emojis/clap.png"><br>
+- You have done a great job. <img src="https://review.udacity.com/assets/images/emojis/clap.png" width=20><img src="https://review.udacity.com/assets/images/emojis/clap.png" width=20><br>
 - All your profiles are complete and have relevant information about you. Well done!
 - You have added the profile image and summary details clearly.💯👍
 - You have added the relevant skills. 💯👍
