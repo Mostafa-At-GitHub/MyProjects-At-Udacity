@@ -4,11 +4,11 @@
 <p align="center"><a href="https://cutt.ly/Marketing-Analytics-Syllabus">Program Syllabus</a></p><br>
 <p align="center"><a href="https://cutt.ly/Udacity-Marketing-Analytics-Transcript-Endorsement">Udacity Transcript Endorsement</a></p>
 
-![download_001](https://user-images.githubusercontent.com/77938921/114275997-6f831700-9a2d-11eb-9fe2-05233f32e882.jpg)
+<p align="center"><img alt= "Udacity_Certificate" src="https://user-images.githubusercontent.com/77938921/114275997-6f831700-9a2d-11eb-9fe2-05233f32e882.jpg" width=750></p>
 
 <p align="center"><a href="https://cutt.ly/MCIT-Transcript-Endorsement">MCIT Transcript Endorsement</a></p>
 
-<p align="center"><img alt= "MCIT_Certificate" src="https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg" width=850 height=700></p>
+<p align="center"><img alt= "MCIT_Certificate" src="https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg" width=750></p>
  
 <p><h1 align="center">Skills Gained</h1></p>
 
