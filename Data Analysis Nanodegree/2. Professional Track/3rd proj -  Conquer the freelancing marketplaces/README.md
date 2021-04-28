@@ -1,13 +1,29 @@
-### [Project Proposal Preview](https://cutt.ly/Conquer-the-freelancing-marketplaces_Propsals) 
+### [Project Proposal Preview](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Proposals) 
 
-### [3rd Project](https://cutt.ly/Conquer-the-freelancing-marketplaces_Propsals), tasks short description
+### [3rd Project](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Proposals), tasks short description
 
-- The project was for creating 2 word files, [one contains links for own prepaired profiles](https://cutt.ly/Conquer-the-freelancing-marketplaces_Profiles) on LinkedIn and two of available freelancing platforms, the second word file was supposed to have [two projects proposals](https://cutt.ly/Conquer-the-freelancing-marketplaces_Propsals) on these freelancing platforms.
+- The project was for creating 2 word files, [one contains links for own prepaired profiles](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Profiles) on LinkedIn and two of available freelancing platforms, the second word file was supposed to have [two projects proposals](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Proposals) on these freelancing platforms.
+
+<div align="center">
+
+*Profiles document*
+
+<a title="A photo of profiles document" href="https://cutt.ly/2nd-proj---Wrangle-and-Analyze-Data_Act-Report-Preview"><img alt="Profiles document" width="325px" style="margin-right:20px" src="images/Profiles.jpg"></a>
+
+*Click the photo to show the file*<br>
+<br>
+*Proposasl document*
+
+<a title="A photo of first proposal" href="https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Proposals"><img alt="First propsal" width="325px" style="margin-right:20px" src="images/Proposals_1.jpg"></a>
+<a title="A photo of second propsal" href="https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Proposals"><img alt="Second propsal" width="325x" style="margin-right:20px" src="images/Proposals_2.jpg"></a>
+<br>
+*Click the photo to show the file*
+</div>
 
 
 ### Reviews highlights for my submissions
 
-*__[1st review](https://cutt.ly/Conquer-the-freelancing-marketplaces_Review) highlights:__*
+*__[1st review](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Review) highlights:__*
 
 - You have done a great job. <img alt="clap" src="https://review.udacity.com/assets/images/emojis/clap.png" width=20><img alt="clap" src="https://review.udacity.com/assets/images/emojis/clap.png" width=20><br>
 - All your profiles are complete and have relevant information about you. Well done!
