@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://cutt.ly/MCIT-Transcript-Endorsement">MCIT Transcript Endorsement</a></p>
 
-<p align="center"><img alt= "MCIT_Certificate" src="https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg" width=850></p>
+<p align="center"><img alt= "MCIT_Certificate" src="https://user-images.githubusercontent.com/77938921/114275462-2fbb3000-9a2b-11eb-85c1-5ecbeaec2a60.jpg" width=850 height=700></p>
  
 <p><h1 align="center">Skills Gained</h1></p>
 
