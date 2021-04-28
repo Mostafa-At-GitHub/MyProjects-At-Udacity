@@ -10,6 +10,9 @@
     <a href="https://cutt.ly/MostafaAGuru" style="text-decoration:None">
         <img alt="Mostafa | Guru" width="40px" style="margin-right:20px" src="https://www.guru.com/favicon.ico">
     </a>
+    <a href="https://cutt.ly/MostafaAPPH" style="text-decoration:None">
+        <img alt="Mostafa | PPH" width="40px" style="margin-right:20px" src="https://www.peopleperhour.com/favicon.ico">
+    </a>
     <a href="https://cutt.ly/MostafaASlideShare" style="text-decoration:None">
         <img alt="Mostafa | Slidshare" width="40px" style="margin-right:20px" src="https://public.slidesharecdn.com/v2/favicon.ico">
     </a>
