@@ -1,9 +1,11 @@
 <p><h1 align="center">Data Analysis Professional Track</h1></p>
 
 <p align="center"><h7 align='center'>My submitted projects for graduation from "Udacity Data Analysis Professional Track"</h7></p>
-<p align="center"><a href="https://graduation.udacity.com/confirm/">Udacity Transcript Endorsement</a></p>
+<p align="center"><a href="https://cutt.ly/Data-Analysis-Professional-Syllabus">Program Syllabus</a></p><br>
+<p align="center"><a href="https://cutt.ly/Udacity-Data-Analysis-Professional-Endorsement">Udacity Transcript Endorsement</a></p>
 
-![Certificate](Capture.PNG)
+<p align="center"><a href="https://cutt.ly/Udacity-Data-Analysis-Professional-Endorsement"><img alt= "Udacity_Certificate" src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/fa08a969-639a-4a59-8a0c-0b6993dde87c.svg" width=750></a></p>
+
 
 ### Core Curriculum
 
