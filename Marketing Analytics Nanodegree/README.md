@@ -4,7 +4,7 @@
 <p align="center"><a href="https://cutt.ly/Marketing-Analytics-Syllabus">Program Syllabus</a></p><br>
 <p align="center"><a href="https://cutt.ly/Udacity-Marketing-Analytics-Transcript-Endorsement">Udacity Transcript Endorsement</a></p>
 
-<p align="center"><a href="https://cutt.ly/Udacity-Marketing-Analytics-Transcript-Endorsement"><img alt= "Udacity_Certificate" src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/3b7aa38a-533e-4722-ad70-5b9d2449c16d.svg" width=750></a></p>
+<p align="center"><a href="https://cutt.ly/Udacity-Marketing-Analytics-Transcript-Endorsement"><img alt= "Udacity_Certificate" src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/3b7aa38a-533e-4722-ad70-5b9d2449c16d.svg" width=850></a></p>
 
 <p align="center"><a href="https://cutt.ly/MCIT-Transcript-Endorsement">MCIT Transcript Endorsement</a></p>
 
