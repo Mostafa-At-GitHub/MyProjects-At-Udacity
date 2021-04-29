@@ -21,7 +21,7 @@
 
 *__[1st review](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Review) highlights:__*
 
-- You have done a great job. <img alt="clap" src="images/emojis/clap.png" width=20><img alt="clap" src="images/emojis/clap.png" width=20><br>
+- You have done a great job. <img alt="clap" src="https://review.udacity.com/assets/images/emojis/clap.png" width=20><img alt="clap" src="https://review.udacity.com/assets/images/emojis/clap.png" width=20><br>
 - All your profiles are complete and have relevant information about you. Well done!
 - You have added the profile image and summary details clearly.💯👍
 - You have added the relevant skills. 💯👍
