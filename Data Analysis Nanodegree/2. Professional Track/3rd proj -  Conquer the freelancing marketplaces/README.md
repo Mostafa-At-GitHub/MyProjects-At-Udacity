@@ -2,7 +2,7 @@
 
 ### [3rd Project](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Proposals), tasks short description
 
-- The project was for creating 2 word files, [one contains links for own prepaired profiles](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Profiles) on LinkedIn and two of available freelancing platforms, the second word file was supposed to have [two projects proposals](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Proposals) on these freelancing platforms.
+- The project was for creating 2 word files, [one contains links for own prepared profiles](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Profiles) on LinkedIn and two of available freelancing platforms, the second file was supposed to have [two project proposals](https://cutt.ly/3rd-proj---Conquer-the-freelancing-marketplaces_Proposals) on these freelancing platforms.
 
 <div align="center">
 
