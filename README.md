@@ -13,6 +13,9 @@
     <a href="https://cutt.ly/MostafaAPPH" style="text-decoration:None">
         <img alt="Mostafa | PPH" width="40px" style="margin-right:20px" src="https://www.peopleperhour.com/favicon.ico">
     </a>
+    <a href="https://cutt.ly/MostafaAFreelancer" style="text-decoration:None">
+        <img alt="Mostafa | Freelancer" width="40px" style="margin-right:20px" src="https://www.freelancer.com/favicon.ico">
+    </a>
     <a href="https://cutt.ly/MostafaASlideShare" style="text-decoration:None">
         <img alt="Mostafa | Slidshare" width="40px" style="margin-right:20px" src="https://public.slidesharecdn.com/v2/favicon.ico">
     </a>
