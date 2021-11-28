@@ -1,0 +1,1 @@
+jupyter nbconvert slide_deck.ipynb --to slides --post serve --template output_toggle.tpl
